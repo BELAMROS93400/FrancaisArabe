@@ -1,0 +1,85 @@
+# Vocabulaire B2 : arabe | français | thème | emoji | pluriel
+# --- environnement
+بِيئَة|l'environnement|environnement|🌿|
+تَلَوُّث|la pollution|environnement|🏭|
+مُنَاخ|un climat|environnement||
+طَاقَة|une énergie|environnement|⚡|
+نُفَايَات|des déchets|environnement|🗑️|
+مَوَارِد|des ressources|environnement||
+جَفَاف|une sécheresse|environnement||
+فَيَضَان|une inondation|environnement||فَيَضَانَات
+حَرَارَة|la chaleur / la température|environnement|🌡️|
+# --- économie
+اِقْتِصَاد|l'économie|économie||
+سِعْر|un prix|économie|🏷️|أَسْعَار
+تِجَارَة|le commerce|économie||
+اِسْتِثْمَار|un investissement|économie||اِسْتِثْمَارَات
+بِطَالَة|le chômage|économie||
+ضَرِيبَة|un impôt / une taxe|économie||ضَرَائِب
+مِيزَانِيَّة|un budget|économie||مِيزَانِيَّات
+سُوق العَمَل|le marché du travail|économie||
+إِنْتَاج|la production|économie||
+شَرِكَة نَاشِئَة|une start-up|économie||
+# --- politique
+اِنْتِخَابَات|des élections|politique|🗳️|
+بَرْلَمَان|un parlement|politique||
+وَزِير|un ministre|politique||وُزَرَاء
+رَئِيس|un président / un chef|politique||رُؤَسَاء
+سِيَاسَة|la politique|politique||سِيَاسَات
+حُرِّيَّة|la liberté|politique||حُرِّيَّات
+حُقُوق|des droits|politique||
+سَلَام|la paix|politique|🕊️|
+حَرْب|une guerre|politique||حُرُوب
+مُعَاهَدَة|un traité|politique||مُعَاهَدَات
+# --- science et technologie
+عِلْم|une science / un savoir|sciences||عُلُوم
+بَحْث|une recherche|sciences||بُحُوث
+تَجْرِبَة|une expérience (scientifique)|sciences|🧪|تَجَارِب
+تِقْنِيَّة|une technologie|sciences||تِقْنِيَّات
+شَبَكَة|un réseau|sciences|🌐|شَبَكَات
+بَرْنَامَج|un programme / un logiciel|sciences||بَرَامِج
+اِخْتِرَاع|une invention|sciences||اِخْتِرَاعَات
+مُخْتَبَر|un laboratoire|sciences|🔬|مُخْتَبَرَات
+نَتِيجَة|un résultat|sciences||نَتَائِج
+دِرَاسَة|une étude|sciences||دِرَاسَات
+# --- éducation
+تَعْلِيم|l'enseignement|éducation||
+شَهَادَة|un diplôme / un certificat|éducation|📜|شَهَادَات
+اِمْتِحَان|un examen|éducation|📝|اِمْتِحَانَات
+مَنْهَج|un programme scolaire / une méthode|éducation||مَنَاهِج
+مُحَاضَرَة|une conférence / un cours magistral|éducation||مُحَاضَرَات
+أُسْتَاذ|un professeur|éducation||أَسَاتِذَة
+بَاحِث|un chercheur|éducation||بَاحِثُون
+# --- abstraits
+مُسْتَقْبَل|l'avenir|abstraits||
+مَاضٍ|le passé|abstraits||
+حَقِيقَة|une vérité / une réalité|abstraits||حَقَائِق
+سَبَب|une cause / une raison|abstraits||أَسْبَاب
+هَدَف|un but / un objectif|abstraits|🎯|أَهْدَاف
+فُرْصَة|une occasion|abstraits||فُرَص
+تَحَدٍّ|un défi|abstraits||تَحَدِّيَات
+تَطَوُّر|un développement / une évolution|abstraits||
+ظَاهِرَة|un phénomène|abstraits||ظَوَاهِر
+قِيمَة|une valeur|abstraits||قِيَم
+# --- adjectifs
+اِجْتِمَاعِيّ|social|adjectifs||
+اِقْتِصَادِيّ|économique|adjectifs||
+سِيَاسِيّ|politique|adjectifs||
+عَالَمِيّ|mondial|adjectifs||
+مَحَلِّيّ|local|adjectifs||
+مُسْتَمِرّ|continu|adjectifs||
+وَاضِح|clair|adjectifs||
+غَامِض|mystérieux / obscur|adjectifs||
+مُنَاسِب|approprié|adjectifs||
+كَافٍ|suffisant|adjectifs||
+# --- verbes
+نَاقَشَ|discuter / débattre|verbes||
+اِقْتَرَحَ|proposer|verbes||
+حَافَظَ|préserver|verbes||
+أَثَّرَ|influencer|verbes||
+اِعْتَبَرَ|considérer|verbes||
+اِنْتَشَرَ|se répandre|verbes||
+اِسْتَفَادَ|profiter / tirer profit|verbes||
+تَطَلَّبَ|exiger / nécessiter|verbes||
+شَارَكَ|participer|verbes||
+أَعْلَنَ|annoncer|verbes|📢|

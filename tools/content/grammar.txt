@@ -1,0 +1,119 @@
+# Grammaire : niveau | thème | phrase arabe avec ___ | bonne réponse | 3 mauvaises réponses (;) | traduction | explication
+# --- A1
+A1|démonstratifs|___ كِتَابٌ.|هٰذَا|هٰذِهِ;هٰؤُلَاءِ;تِلْكَ|C'est un livre.|« كِتَاب » est masculin singulier : on utilise « هٰذَا » (ceci, masculin).
+A1|démonstratifs|___ مَدْرَسَةٌ.|هٰذِهِ|هٰذَا;ذٰلِكَ;هٰذَانِ|C'est une école.|« مَدْرَسَة » se termine par ة (tâ' marbûta) : féminin, donc « هٰذِهِ ».
+A1|démonstratifs|___ سَيَّارَةٌ بَعِيدَةٌ.|تِلْكَ|ذٰلِكَ;هٰذَا;هٰؤُلَاءِ|Ça, c'est une voiture éloignée.|Pour un objet éloigné : « ذٰلِكَ » (masc.) et « تِلْكَ » (fém.). « سَيَّارَة » est féminin.
+A1|pronoms|___ طَالِبٌ.|أَنَا|أَنْتِ;هِيَ;نَحْنُ|Je suis étudiant.|« طَالِب » est masculin singulier : « أَنَا » (je) convient ; « أَنْتِ » et « هِيَ » sont féminins.
+A1|pronoms|___ طَبِيبَةٌ.|هِيَ|هُوَ;أَنْتَ;هُمْ|Elle est médecin.|« طَبِيبَة » est féminin : on prend « هِيَ » (elle).
+A1|pronoms|___ مِنْ لُبْنَانَ.|نَحْنُ|أَنْتُمْ;هُمْ;أَنَا|Nous sommes du Liban.|« نَحْنُ » = nous.
+A1|article|ذَهَبْتُ إِلَى ___ .|المَدْرَسَةِ|المَدْرَسَةُ;المَدْرَسَةٍ;مَدْرَسَةٌ|Je suis allé à l'école.|Avec l'article « الـ », le nom ne prend pas de tanwîn ; après « إِلَى », il est au génitif : المَدْرَسَةِ.
+A1|genre|البِنْتُ ___ .|جَمِيلَةٌ|جَمِيلٌ;جَمِيلُونَ;جَمَالٌ|La fille est belle.|L'attribut s'accorde en genre : « بِنْت » est féminin → « جَمِيلَةٌ ».
+A1|genre|الوَلَدُ ___ .|صَغِيرٌ|صَغِيرَةٌ;صِغَارٌ;صَغِيرَتَانِ|Le garçon est petit.|« وَلَد » est masculin singulier → « صَغِيرٌ ».
+A1|accord|هٰذَا بَيْتٌ ___ .|كَبِيرٌ|الكَبِيرُ;كَبِيرَةٌ;كَبِيرًا|C'est une grande maison.|L'adjectif épithète s'accorde en genre et en détermination : « بَيْتٌ » est indéfini → « كَبِيرٌ » (sans الـ).
+A1|accord|البَيْتُ ___ جَمِيلٌ.|الكَبِيرُ|كَبِيرٌ;كَبِيرَةٌ;الكَبِيرَةُ|La grande maison est belle.|Nom défini → adjectif épithète défini : « البَيْتُ الكَبِيرُ ».
+A1|possessifs|هٰذَا ___ . (mon livre)|كِتَابِي|كِتَابُكَ;كِتَابُهُ;كِتَابُهَا|C'est mon livre.|Le possessif « mon / ma » est le suffixe « ـي » : كِتَابِي.
+A1|possessifs|أَيْنَ ___ ؟ (ton stylo, à un homme)|قَلَمُكَ|قَلَمُكِ;قَلَمِي;قَلَمُنَا|Où est ton stylo ?|À un homme : « ـكَ » ; à une femme : « ـكِ ».
+A1|possessifs|هٰذِهِ ___ . (sa voiture, à elle)|سَيَّارَتُهَا|سَيَّارَتُهُ;سَيَّارَتُكُمْ;سَيَّارَتِي|C'est sa voiture (à elle).|« ـهَا » = son / sa (à elle) ; « ـهُ » = son / sa (à lui).
+A1|questions|___ اسْمُكَ؟|مَا|مَنْ;أَيْنَ;هَلْ|Comment t'appelles-tu ?|« مَا » = quoi / quel ; « مَا اسْمُكَ؟ » = quel est ton nom ?
+A1|questions|___ أَنْتَ؟ — أَنَا مِنْ تُونِسَ.|مِنْ أَيْنَ|مَتَى;كَيْفَ;كَمْ|D'où viens-tu ? — Je viens de Tunisie.|« مِنْ أَيْنَ » = d'où.
+A1|questions|___ حَالُكِ؟|كَيْفَ|أَيْنَ;مَنْ;لِمَاذَا|Comment vas-tu ? (à une femme)|« كَيْفَ » = comment.
+A1|questions|___ هٰذَا؟ — هٰذَا أَخِي.|مَنْ|مَا;كَمْ;هَلْ|Qui est-ce ? — C'est mon frère.|« مَنْ » = qui (pour les personnes) ; « مَا » = quoi (pour les choses).
+A1|prépositions|الكِتَابُ ___ الطَّاوِلَةِ.|عَلَى|إِلَى;مِنْ;عَنْ|Le livre est sur la table.|« عَلَى » = sur.
+A1|prépositions|أَنَا ___ البَيْتِ.|فِي|إِلَى;عَلَى;مَعَ|Je suis à la maison.|« فِي » = dans / à (lieu où l'on est).
+A1|prépositions|ذَهَبَ أَحْمَدُ ___ السُّوقِ.|إِلَى|فِي;عَلَى;عَنْ|Ahmed est allé au marché.|« إِلَى » = vers / à (direction, après un verbe de mouvement).
+A1|verbe passé|هِيَ ___ الدَّرْسَ.|كَتَبَتْ|كَتَبَ;كَتَبْتُ;كَتَبُوا|Elle a écrit la leçon.|Au passé, « elle » ajoute « ـَتْ » : كَتَبَتْ.
+A1|verbe présent|أَنَا ___ القَهْوَةَ.|أَشْرَبُ|يَشْرَبُ;تَشْرَبُ;نَشْرَبُ|Je bois du café.|Au présent, « je » = préfixe « أَـ » : أَشْرَبُ.
+# --- A2
+A2|duel|عِنْدِي ___ .|كِتَابَانِ|كِتَابٌ;كُتُبٌ;كِتَابَيْنِ|J'ai deux livres.|Le duel se forme avec « ـَانِ » au nominatif (sujet) ; ici « كِتَابَانِ » est sujet (inchoatif retardé).
+A2|duel|رَأَيْتُ ___ فِي الحَدِيقَةِ.|طِفْلَيْنِ|طِفْلَانِ;أَطْفَالٌ;طِفْلٌ|J'ai vu deux enfants dans le jardin.|Complément d'objet → accusatif : le duel devient « ـَيْنِ ».
+A2|pluriel|المُعَلِّمُونَ ___ .|مُجْتَهِدُونَ|مُجْتَهِدٌ;مُجْتَهِدَةٌ;مُجْتَهِدَاتٌ|Les enseignants sont travailleurs.|Pluriel masculin régulier (personnes) → l'attribut prend aussi « ـُونَ ».
+A2|pluriel|الطَّالِبَاتُ ___ .|حَاضِرَاتٌ|حَاضِرُونَ;حَاضِرٌ;حَاضِرَانِ|Les étudiantes sont présentes.|Pluriel féminin régulier : « ـَاتٌ ».
+A2|pluriel|هٰذِهِ الكُتُبُ ___ .|جَدِيدَةٌ|جَدِيدُونَ;جَدِيدَانِ;جَدِيدَتَانِ|Ces livres sont neufs.|Un pluriel de choses (non humain) se traite comme un féminin singulier : « هٰذِهِ … جَدِيدَةٌ ».
+A2|idafa|هٰذِهِ سَيَّارَةُ ___ .|المُدِيرِ|المُدِيرُ;مُدِيرًا;المُدِيرَ|C'est la voiture du directeur.|Dans l'annexion (إِضَافَة), le second terme est au génitif : المُدِيرِ ; le premier n'a ni الـ ni tanwîn.
+A2|idafa|زُرْتُ ___ العِلْمِ.|مَدِينَةَ|المَدِينَةَ;مَدِينَةً;المَدِينَةِ|J'ai visité la Cité des sciences.|Premier terme d'une idafa : jamais d'article ni de tanwîn → « مَدِينَةَ ».
+A2|négation|___ أَفْهَمُ.|لَا|لَمْ;لَنْ;لَيْسَ|Je ne comprends pas.|« لَا » nie le présent : لَا أَفْهَمُ.
+A2|négation|___ أَذْهَبْ إِلَى العَمَلِ أَمْسِ.|لَمْ|لَا;لَنْ;مَا|Je ne suis pas allé au travail hier.|« لَمْ » + présent au jussif = négation du passé : لَمْ أَذْهَبْ.
+A2|négation|___ أُسَافِرَ غَدًا.|لَنْ|لَمْ;لَا;لَيْسَ|Je ne voyagerai pas demain.|« لَنْ » + subjonctif = négation du futur : لَنْ أُسَافِرَ.
+A2|négation|الجَوُّ ___ بَارِدًا.|لَيْسَ|لَا;لَمْ;مَا كَانَ لَا|Il ne fait pas froid.|« لَيْسَ » nie la phrase nominale ; son attribut est à l'accusatif : بَارِدًا.
+A2|kâna|كَانَ الجَوُّ ___ .|جَمِيلًا|جَمِيلٌ;جَمِيلٍ;الجَمِيلُ|Il faisait beau.|Après « كَانَ », l'attribut est à l'accusatif : جَمِيلًا.
+A2|comparatif|القِطَارُ ___ مِنَ الحَافِلَةِ.|أَسْرَعُ|سَرِيعٌ;السَّرِيعُ;سُرْعَةٌ|Le train est plus rapide que le bus.|Comparatif : schème « أَفْعَلُ » + « مِنْ » : أَسْرَعُ مِنْ.
+A2|comparatif|هٰذَا ___ يَوْمٍ فِي حَيَاتِي.|أَجْمَلُ|الأَجْمَلُ;جَمِيلٌ;أَجْمَلَ مِنْ|C'est le plus beau jour de ma vie.|Superlatif : « أَفْعَلُ » + nom indéfini au génitif : أَجْمَلُ يَوْمٍ.
+A2|futur|___ أَزُورُ صَدِيقِي غَدًا.|سَـ / سَوْفَ|لَمْ;لَيْسَ;أَنْ|Je rendrai visite à mon ami demain.|Le futur se forme avec « سَـ » (collé) ou « سَوْفَ » + présent.
+A2|accord verbe|___ المُعَلِّمُونَ إِلَى المَدْرَسَةِ.|ذَهَبَ|ذَهَبُوا;ذَهَبْنَ;ذَهَبَا|Les enseignants sont allés à l'école.|Quand le verbe précède son sujet, il reste au singulier : ذَهَبَ المُعَلِّمُونَ.
+A2|accord verbe|المُعَلِّمُونَ ___ إِلَى المَدْرَسَةِ.|ذَهَبُوا|ذَهَبَ;ذَهَبْنَ;ذَهَبْتُمْ|Les enseignants, eux, sont allés à l'école.|Quand le sujet précède le verbe, le verbe s'accorde en nombre : المُعَلِّمُونَ ذَهَبُوا.
+A2|nombres|عِنْدِي ___ إِخْوَةٍ.|ثَلَاثَةُ|ثَلَاثُ;ثَلَاثٌ;ثَلَاثَةٍ|J'ai trois frères.|De 3 à 10, le nombre prend le genre opposé au singulier du nom : « أَخ » est masculin → « ثَلَاثَةُ ».
+A2|nombres|فِي الصَّفِّ ___ طَالِبَاتٍ.|خَمْسُ|خَمْسَةُ;خَمْسَةٌ;خَمْسِينَ|Il y a cinq étudiantes dans la classe.|« طَالِبَة » est féminin → nombre sans ة : خَمْسُ طَالِبَاتٍ.
+# --- B1
+B1|anna/inna|أَعْرِفُ ___ الدَّرْسَ صَعْبٌ.|أَنَّ|أَنْ;إِنَّ;لِأَنْ|Je sais que la leçon est difficile.|« أَنَّ » (que) introduit une phrase nominale ; son sujet est à l'accusatif : أَنَّ الدَّرْسَ.
+B1|anna/inna|أُرِيدُ ___ أَتَعَلَّمَ العَرَبِيَّةَ.|أَنْ|أَنَّ;إِنَّ;لَنْ|Je veux apprendre l'arabe.|« أَنْ » + verbe au subjonctif : أَنْ أَتَعَلَّمَ.
+B1|anna/inna|إِنَّ ___ مُفِيدٌ.|العِلْمَ|العِلْمُ;العِلْمِ;عِلْمٌ|La science est certes utile.|Le nom de « إِنَّ » est à l'accusatif : إِنَّ العِلْمَ.
+B1|relatifs|هٰذَا هُوَ الرَّجُلُ ___ سَاعَدَنِي.|الَّذِي|الَّتِي;الَّذِينَ;مَنْ الَّذِي|Voici l'homme qui m'a aidé.|Relatif masculin singulier : « الَّذِي ».
+B1|relatifs|قَرَأْتُ الرِّسَالَةَ ___ أَرْسَلْتَهَا.|الَّتِي|الَّذِي;اللَّاتِي;الَّذِينَ|J'ai lu la lettre que tu as envoyée.|Antécédent féminin singulier → « الَّتِي ».
+B1|relatifs|نَجَحَ الطُّلَّابُ ___ اجْتَهَدُوا.|الَّذِينَ|الَّذِي;الَّتِي;اللَّذَانِ|Les étudiants qui ont travaillé ont réussi.|Antécédent masculin pluriel (personnes) → « الَّذِينَ ».
+B1|passif|كُتِبَ ___ بِخَطٍّ جَمِيلٍ.|الدَّرْسُ|الدَّرْسَ;الدَّرْسِ;دَرْسًا|La leçon a été écrite d'une belle écriture.|Le sujet du verbe passif (نَائِب الفَاعِل) est au nominatif : الدَّرْسُ.
+B1|passif|___ البَابُ.|فُتِحَ|فَتَحَ;يَفْتَحُ;اِفْتَحْ|La porte a été ouverte.|Passif du passé : voyelles « u – i » : فُتِحَ.
+B1|conditionnel|إِذَا ___ مُبَكِّرًا، وَصَلْتَ فِي الوَقْتِ.|خَرَجْتَ|تَخْرُجُ;خُرُوجٌ;سَتَخْرُجُ|Si tu sors tôt, tu arriveras à l'heure.|Après « إِذَا », on utilise souvent le passé, même pour un sens futur.
+B1|conditionnel|لَوْ دَرَسْتَ ___ .|لَنَجَحْتَ|سَتَنْجَحُ;نَجَحَتْ;لَا تَنْجَحُ|Si tu avais étudié, tu aurais réussi.|« لَوْ » (hypothèse irréelle) : la principale commence souvent par « لَـ » : لَنَجَحْتَ.
+B1|lâ générique|لَا ___ فِي البَيْتِ.|رَجُلَ|رَجُلٌ;رَجُلٍ;الرَّجُلُ|Il n'y a (absolument) aucun homme dans la maison.|« لَا » de négation absolue (النَّافِيَة لِلْجِنْس) : nom sans tanwîn, à l'accusatif : لَا رَجُلَ.
+B1|kâna|كَانَ الطَّقْسُ ___ .|مُشْمِسًا|مُشْمِسٌ;مُشْمِسٍ;المُشْمِسُ|Le temps était ensoleillé.|L'attribut (خَبَر) de كَانَ est à l'accusatif.
+B1|kâna|أَصْبَحَ الطِّفْلُ ___ .|كَبِيرًا|كَبِيرٌ;كَبِيرٍ;الكَبِيرُ|L'enfant est devenu grand.|« أَصْبَحَ » est une « sœur de كَانَ » : son attribut est à l'accusatif.
+B1|verbe+prép.|أَحْتَاجُ ___ مُسَاعَدَتِكَ.|إِلَى|عَلَى;مِنْ;فِي|J'ai besoin de ton aide.|« اِحْتَاجَ إِلَى » = avoir besoin de.
+B1|verbe+prép.|حَصَلَ ___ جَائِزَةٍ.|عَلَى|إِلَى;فِي;بِـ|Il a obtenu un prix.|« حَصَلَ عَلَى » = obtenir.
+B1|verbe+prép.|بَحَثْتُ ___ مِفْتَاحِي.|عَنْ|عَلَى;إِلَى;مِنْ|J'ai cherché ma clé.|« بَحَثَ عَنْ » = chercher.
+B1|cause|تَأَخَّرْتُ ___ الزِّحَامِ.|بِسَبَبِ|لِأَنَّ;لِكَيْ;حَتَّى|Je suis en retard à cause des embouteillages.|« بِسَبَبِ » + nom ; « لِأَنَّ » + phrase.
+B1|but|أَدْرُسُ ___ أَنْجَحَ.|لِكَيْ|لِأَنَّ;بِسَبَبِ;لَكِنْ|J'étudie pour réussir.|« لِكَيْ » (pour que / afin de) + subjonctif : أَنْجَحَ.
+# --- B2
+B2|hâl|جَاءَ الطِّفْلُ ___ .|مُسْرِعًا|مُسْرِعٌ;المُسْرِعُ;مُسْرِعٍ|L'enfant est venu en courant.|Le complément d'état (حَال) est indéfini et à l'accusatif : مُسْرِعًا.
+B2|tamyîz|اِشْتَرَيْتُ عِشْرِينَ ___ .|كِتَابًا|كُتُبًا;كِتَابٍ;كُتُبٍ|J'ai acheté vingt livres.|De 11 à 99, le nom compté est au singulier, à l'accusatif (تَمْيِيز) : كِتَابًا.
+B2|nombres|قَرَأْتُ مِئَةَ ___ .|صَفْحَةٍ|صَفْحَةً;صَفَحَاتٍ;صَفْحَاتٌ|J'ai lu cent pages.|Après « مِئَة » et « أَلْف », le nom est au singulier génitif : صَفْحَةٍ.
+B2|maf'ûl li-ajlih|وَقَفَ الطُّلَّابُ ___ لِلْمُعَلِّمِ.|اِحْتِرَامًا|اِحْتِرَامٌ;اِحْتِرَامٍ;الاِحْتِرَامُ|Les élèves se sont levés par respect pour l'enseignant.|Le complément de cause (مَفْعُول لِأَجْلِهِ) est un nom verbal à l'accusatif : اِحْتِرَامًا.
+B2|maf'ûl mutlaq|فَرِحْتُ ___ كَبِيرًا.|فَرَحًا|فَرَحٌ;فَرَحٍ;الفَرَحُ|Je me suis beaucoup réjoui.|Complément absolu (مَفْعُول مُطْلَق) : le nom verbal du même verbe, à l'accusatif.
+B2|diptotes|صَلَّيْتُ فِي ___ كَثِيرَةٍ.|مَسَاجِدَ|مَسَاجِدٍ;مَسَاجِدُ;المَسَاجِدَ|J'ai prié dans de nombreuses mosquées.|« مَسَاجِد » est diptote (مَمْنُوع مِنَ الصَّرْف) : pas de tanwîn, et fatha au lieu de kasra au génitif.
+B2|diptotes|سَافَرْتُ مَعَ ___ .|أَحْمَدَ|أَحْمَدٍ;أَحْمَدِ;أَحْمَدُ|J'ai voyagé avec Ahmad.|« أَحْمَد » est diptote : génitif en fatha, sans tanwîn.
+B2|laysa|لَسْتُ ___ عَنْ هٰذَا الخَطَأِ.|مَسْؤُولًا|مَسْؤُولٌ;مَسْؤُولٍ;المَسْؤُولُ|Je ne suis pas responsable de cette erreur.|L'attribut de « لَيْسَ » est à l'accusatif ; « لَسْتُ » = je ne suis pas.
+B2|laysa|لَيْسَ الطَّالِبُ ___ .|بِكَسُولٍ|بِكَسُولًا;كَسُولٌ;الكَسُولِ|L'étudiant n'est pas paresseux.|L'attribut de « لَيْسَ » peut être introduit par « بِـ » (au génitif).
+B2|concession|___ صُعُوبَةِ الطَّرِيقِ، وَصَلْنَا.|رَغْمَ|لِأَنَّ;بِسَبَبِ;لِكَيْ|Malgré la difficulté du chemin, nous sommes arrivés.|« رَغْمَ / عَلَى الرَّغْمِ مِنْ » = malgré.
+B2|connecteurs|لَمْ يَحْضُرِ الاِجْتِمَاعَ، ___ أَرْسَلَ تَقْرِيرًا.|بَلْ|لِأَنَّ;إِذًا;كَيْ|Il n'a pas assisté à la réunion, mais il a envoyé un rapport.|« بَلْ » = mais plutôt (après une négation).
+B2|connecteurs|أَمَّا أَخِي ___ يَعْمَلُ فِي بَارِيسَ.|فَـ|وَ;ثُمَّ;أَوْ|Quant à mon frère, il travaille à Paris.|« أَمَّا … فَـ » = quant à … : la suite commence toujours par « فَـ ».
+B2|nisba|زُرْنَا المَتْحَفَ ___ .|الوَطَنِيَّ|الوَطَنِ;وَطَنِيٌّ;الوَطَنِيُّونَ|Nous avons visité le musée national.|L'adjectif de relation (نِسْبَة) se forme avec « ـِيّ » et s'accorde : المَتْحَفَ الوَطَنِيَّ.
+B2|kâda|كَادَ الطِّفْلُ ___ .|يَسْقُطُ|أَنْ سَقَطَ;سَقَطَ;سُقُوطًا|L'enfant a failli tomber.|« كَادَ » (faillir) est suivi directement d'un verbe au présent.
+# --- C1
+C1|zanna|ظَنَنْتُ الأَمْرَ ___ .|سَهْلًا|سَهْلٌ;سَهْلٍ;السَّهْلُ|J'ai cru que l'affaire était facile.|« ظَنَّ » et ses sœurs prennent deux compléments à l'accusatif : الأَمْرَ سَهْلًا.
+C1|zanna|وَجَدْتُ الكِتَابَ ___ .|مُفِيدًا|مُفِيدٌ;مُفِيدٍ;المُفِيدُ|J'ai trouvé le livre utile.|« وَجَدَ » au sens de « trouver (que) » : deux accusatifs.
+C1|exception|حَضَرَ الطُّلَّابُ إِلَّا ___ .|طَالِبًا|طَالِبٌ;طَالِبٍ;طُلَّابًا|Les étudiants sont venus, sauf un.|Exception positive et complète (تَامّ مُثْبَت) : le nom après « إِلَّا » est à l'accusatif.
+C1|exception|مَا حَضَرَ إِلَّا ___ .|طَالِبٌ|طَالِبًا;طَالِبٍ;طَالِبَيْنِ|Seul un étudiant est venu.|Exception « vidée » (مُفَرَّغ) : le nom prend la fonction qu'il a dans la phrase, ici sujet → nominatif.
+C1|exception|نَجَحَ الجَمِيعُ غَيْرَ ___ .|وَاحِدٍ|وَاحِدًا;وَاحِدٌ;الوَاحِدَ|Tout le monde a réussi sauf un.|Après « غَيْرَ / سِوَى », le nom est au génitif (complément d'annexion).
+C1|vocatif|يَا ___ ، اِنْتَبِهْ!|عَلِيُّ|عَلِيًّا;عَلِيٍّ;عَلِيٌّ|Ali, fais attention !|Après « يَا », un nom propre (مُنَادَى عَلَم مُفْرَد) prend un damma sans tanwîn.
+C1|vocatif|يَا ___ اللهِ!|عَبْدَ|عَبْدُ;عَبْدِ;عَبْدًا|Ô Abdallah !|Un vocatif en annexion (مُضَاف) est à l'accusatif : يَا عَبْدَ اللهِ.
+C1|exclamation|مَا ___ السَّمَاءَ!|أَجْمَلَ|أَجْمَلُ;جَمِيلَ;الأَجْمَلَ|Comme le ciel est beau !|Exclamation : « مَا أَفْعَلَ » + nom à l'accusatif : مَا أَجْمَلَ السَّمَاءَ!
+C1|ni'ma/bi'sa|___ الخُلُقُ الصِّدْقُ.|نِعْمَ|بِئْسَ;نِعْمَتْ;أَنْعَمَ|Quelle excellente qualité que la sincérité !|« نِعْمَ » sert à louer, « بِئْسَ » à blâmer.
+C1|mâ zâla|مَا زَالَ المَطَرُ ___ .|غَزِيرًا|غَزِيرٌ;غَزِيرٍ;الغَزِيرُ|La pluie est toujours abondante.|« مَا زَالَ » (ne cesser de) est une sœur de « كَانَ » : attribut à l'accusatif.
+C1|conditionnel|إِنْ ___ تَنْجَحْ.|تَدْرُسْ|تَدْرُسُ;تَدْرُسَ;دَرَسْتُ|Si tu étudies, tu réussiras.|« إِنْ » conditionnel met les deux verbes au jussif (مَجْزُوم) : تَدْرُسْ … تَنْجَحْ.
+C1|conditionnel|مَنْ يَجْتَهِدْ ___ .|يَنْجَحْ|يَنْجَحُ;يَنْجَحَ;نَجَاحًا|Qui fait des efforts réussit.|« مَنْ » conditionnel : verbes au jussif.
+C1|wâw al-ma'iyya|سِرْتُ ___ النَّهْرَ.|وَ|مَعَ;بِـ;فِي|J'ai marché le long du fleuve.|« وَاو المَعِيَّة » (= avec) : le nom qui suit est à l'accusatif (مَفْعُول مَعَهُ) : وَالنَّهْرَ.
+C1|accusatif d'état|عَادَ الجُنُودُ ___ .|مُنْتَصِرِينَ|مُنْتَصِرُونَ;مُنْتَصِرٍ;المُنْتَصِرُونَ|Les soldats sont revenus victorieux.|Hâl au pluriel masculin : accusatif en « ـِينَ ».
+# --- C2
+C2|cinq noms|رَأَيْتُ ___ .|أَبَاكَ|أَبُوكَ;أَبِيكَ;أَبَكَ|J'ai vu ton père.|Les « cinq noms » (أَب، أَخ، حَم، فُو، ذُو) en annexion marquent le cas par une voyelle longue : accusatif → « ا » : أَبَاكَ.
+C2|cinq noms|سَلَّمْتُ عَلَى ___ .|أَخِيكَ|أَخُوكَ;أَخَاكَ;أَخُكَ|J'ai salué ton frère.|Génitif des cinq noms → « ي » : أَخِيكَ.
+C2|cinq noms|جَاءَ رَجُلٌ ___ عِلْمٍ.|ذُو|ذَا;ذِي;ذَاتُ|Un homme savant est venu.|« ذُو » (doté de) suit le cas du nom : nominatif → ذُو.
+C2|jussif réponse|اُدْرُسْ ___ .|تَنْجَحْ|تَنْجَحُ;تَنْجَحَ;نَجَحْتَ|Étudie, tu réussiras.|Le verbe en réponse à un ordre (جَوَاب الطَّلَب) est au jussif.
+C2|lâm de l'ordre|___ يَذْهَبْ كُلُّ طَالِبٍ إِلَى صَفِّهِ.|لِـ|لَـ;لَنْ;لَمْ|Que chaque élève aille dans sa classe.|« لَام الأَمْر » (لِـ / فَلْـ / وَلْـ) + jussif : ordre à la 3e personne.
+C2|lâ de défense|___ تَتَأَخَّرْ.|لَا|لَمْ;لَنْ;مَا|Ne sois pas en retard.|« لَا النَّاهِيَة » + jussif : لَا تَتَأَخَّرْ.
+C2|verbes faibles jussif|لَمْ ___ أَحَدٌ.|يَأْتِ|يَأْتِي;يَأْتُ;يَأْتَى|Personne n'est venu.|Au jussif, un verbe défectueux perd sa voyelle longue finale : يَأْتِي → لَمْ يَأْتِ.
+C2|verbes faibles jussif|لَمْ ___ فِي الفُنْدُقِ.|نَنَمْ|نَنَامْ;نَنَامُ;نَنُومْ|Nous n'avons pas dormi à l'hôtel.|Verbe concave au jussif : la voyelle longue s'abrège devant sukûn : نَنَامُ → لَمْ نَنَمْ.
+C2|kam|___ كِتَابًا قَرَأْتَ؟|كَمْ|كَمْ مِنْ;مَا;أَيُّ|Combien de livres as-tu lus ?|« كَمْ » interrogatif + nom singulier à l'accusatif (tamyîz) : كَمْ كِتَابًا.
+C2|kam|___ كِتَابٍ قَرَأْتُ!|كَمْ|كَمْ أَنَّ;مَا;أَيَّ|Que de livres j'ai lus !|« كَمْ » exclamatif (خَبَرِيَّة) + nom au génitif : كَمْ كِتَابٍ.
+C2|lâ siyyamâ|أُحِبُّ الفَوَاكِهَ لَا سِيَّمَا ___ .|العِنَبُ / العِنَبِ|العِنَبَا;عِنَبٌ مِنْ;بِالعِنَبِ|J'aime les fruits, surtout le raisin.|Après « لَا سِيَّمَا », le nom défini se met couramment au génitif (ou au nominatif).
+C2|inna+lâm|إِنَّ العِلْمَ ___ .|لَنُورٌ|لَنُورًا;نُورًا;لِنُورٍ|La science est assurément une lumière.|« لَام المُزَحْلَقَة » renforce le prédicat de « إِنَّ », qui reste au nominatif : لَنُورٌ.
+# --- Expert
+Expert|rubba|رُبَّ ___ لَكَ لَمْ تَلِدْهُ أُمُّكَ.|أَخٍ|أَخٌ;أَخًا;أَخَاكَ|Il est des frères que ta mère n'a pas enfantés.|« رُبَّ » est suivie d'un nom indéfini au génitif : رُبَّ أَخٍ.
+Expert|i'râb|جَاءَ ___ وَهُوَ يَبْتَسِمُ.|زَيْدٌ|زَيْدًا;زَيْدٍ;زَيْدَ|Zayd est venu en souriant.|Sujet (فَاعِل) au nominatif ; la phrase « وَهُوَ يَبْتَسِمُ » est une phrase circonstancielle (جُمْلَة حَالِيَّة).
+Expert|ishtighâl|الكِتَابَ ___ .|قَرَأْتُهُ|قَرَأْتُهَا;يُقْرَأُ;قِرَاءَةٌ|Le livre, je l'ai lu.|Dans l'ishtighâl, le nom antéposé peut être à l'accusatif, avec un pronom de rappel sur le verbe : قَرَأْتُهُ.
+Expert|tanâzu'|___ وَجَلَسَ زَيْدٌ.|قَامَ|قَامُوا;قِيَامًا;يَقُومَانِ|Zayd s'est levé puis s'est assis.|Deux verbes se « disputent » le même sujet (تَنَازُع) : le premier reste au singulier.
+Expert|nûn de corroboration|وَاللهِ ___ .|لَأَجْتَهِدَنَّ|لَأَجْتَهِدُ;أَجْتَهِدْ;لَنْ أَجْتَهِدَ|Par Dieu, je ferai assurément des efforts !|Dans la réponse à un serment, le présent prend « لَـ » et le « نُون التَّوْكِيد » : لَأَجْتَهِدَنَّ.
+Expert|ka-anna|كَأَنَّ ___ بَدْرٌ.|وَجْهَهُ|وَجْهُهُ;وَجْهِهِ;وَجْهٌ|C'est comme si son visage était une pleine lune.|« كَأَنَّ » est une sœur de « إِنَّ » : son nom est à l'accusatif.
+Expert|lâkinna|الجَوُّ بَارِدٌ لَكِنَّ ___ مُشْمِسٌ.|اليَوْمَ|اليَوْمُ;اليَوْمِ;يَوْمٌ|Il fait froid, mais la journée est ensoleillée.|« لَكِنَّ » (avec shadda) est une sœur de « إِنَّ » : nom à l'accusatif.
+Expert|mâ hijâziyya|مَا هٰذَا ___ .|بَشَرًا|بَشَرٌ;بَشَرٍ;البَشَرُ|Ce n'est pas un être humain (Coran 12:31).|« مَا الحِجَازِيَّة » fonctionne comme « لَيْسَ » : attribut à l'accusatif.
+Expert|hattâ|أَكَلْتُ السَّمَكَةَ حَتَّى ___ .|رَأْسَهَا / رَأْسِهَا|رَأْسُهَا فَقَطْ;رَأْسٌ;بِرَأْسِهَا|J'ai mangé le poisson, jusqu'à sa tête.|Exemple classique : selon le sens, « حَتَّى » est préposition (génitif) ou particule de coordination (accusatif).
+Expert|badal|أَعْجَبَنِي الطَّالِبُ ___ .|خُلُقُهُ|خُلُقَهُ;خُلُقِهِ;خُلُقٌ|J'ai admiré l'étudiant, son caractère.|Apposition (بَدَل اشْتِمَال) : même cas que le nom repris, ici nominatif.
+

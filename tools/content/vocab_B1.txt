@@ -1,0 +1,99 @@
+# Vocabulaire B1 : arabe | français | thème | emoji | pluriel
+# --- travail
+شَرِكَة|une entreprise|travail|🏢|شَرِكَات
+مَكْتَب|un bureau|travail||مَكَاتِب
+اِجْتِمَاع|une réunion|travail||اِجْتِمَاعَات
+رَاتِب|un salaire|travail|💰|رَوَاتِب
+مُدِير|un directeur|travail||مُدَرَاء
+زَمِيل|un collègue|travail||زُمَلَاء
+وَظِيفَة|un emploi / un poste|travail||وَظَائِف
+مُقَابَلَة|un entretien|travail||مُقَابَلَات
+مَشْرُوع|un projet|travail||مَشَارِيع
+خِبْرَة|une expérience|travail||خِبْرَات
+عَقْد|un contrat|travail||عُقُود
+إِجَازَة|un congé|travail||إِجَازَات
+# --- santé
+مَرَض|une maladie|santé||أَمْرَاض
+دَوَاء|un médicament|santé|💊|أَدْوِيَة
+أَلَم|une douleur|santé||آلَام
+صِحَّة|la santé|santé||
+عِيَادَة|un cabinet médical|santé||عِيَادَات
+حُمَّى|de la fièvre|santé|🤒|
+جُرْح|une blessure|santé|🩹|جُرُوح
+عِلَاج|un traitement|santé||
+مَوْعِد|un rendez-vous|santé|📅|مَوَاعِيد
+# --- voyage
+جَوَاز سَفَر|un passeport|voyage|🛂|
+تَذْكِرَة|un billet|voyage|🎫|تَذَاكِر
+حَجْز|une réservation|voyage||
+أَمْتِعَة|des bagages|voyage|🧳|
+خَرِيطَة|une carte (géographique)|voyage|🗺️|خَرَائِط
+سَائِح|un touriste|voyage||سُيَّاح
+حُدُود|des frontières|voyage||
+رِحْلَة جَوِّيَّة|un vol|voyage|✈️|
+مِينَاء|un port|voyage|⚓|مَوَانِئ
+# --- société
+مُجْتَمَع|une société|société||مُجْتَمَعَات
+حُكُومَة|un gouvernement|société||حُكُومَات
+قَانُون|une loi|société|⚖️|قَوَانِين
+شَعْب|un peuple|société||شُعُوب
+دَوْلَة|un État|société||دُوَل
+عَاصِمَة|une capitale|société||عَوَاصِم
+جَرِيدَة|un journal|société|📰|جَرَائِد
+خَبَر|une nouvelle|société||أَخْبَار
+لُغَة|une langue|société||لُغَات
+ثَقَافَة|une culture|société||ثَقَافَات
+تَارِيخ|une histoire / une date|société||تَوَارِيخ
+دِين|une religion|société||أَدْيَان
+# --- communication
+رِسَالَة|une lettre / un message|communication|✉️|رَسَائِل
+سُؤَال|une question|communication|❓|أَسْئِلَة
+جَوَاب|une réponse|communication||أَجْوِبَة
+فِكْرَة|une idée|communication|💡|أَفْكَار
+رَأْي|un avis / une opinion|communication||آرَاء
+حِوَار|un dialogue|communication||حِوَارَات
+كَلِمَة|un mot|communication||كَلِمَات
+جُمْلَة|une phrase|communication||جُمَل
+حَاسُوب|un ordinateur|communication|💻|حَوَاسِيب
+شَاشَة|un écran|communication|🖥️|شَاشَات
+# --- sentiments
+فَرَح|la joie|sentiments|😄|
+خَوْف|la peur|sentiments|😨|
+غَضَب|la colère|sentiments|😠|
+حُبّ|l'amour|sentiments|💕|
+أَمَل|un espoir|sentiments||آمَال
+حُلْم|un rêve|sentiments||أَحْلَام
+مُشْكِلَة|un problème|sentiments||مَشَاكِل
+حَلّ|une solution|sentiments||حُلُول
+# --- adjectifs
+مُهِمّ|important|adjectifs||
+مُمْكِن|possible|adjectifs||
+ضَرُورِيّ|nécessaire|adjectifs||
+مُفِيد|utile|adjectifs||
+مُمْتِع|agréable / intéressant|adjectifs||
+خَطِير|dangereux / grave|adjectifs||
+مُخْتَلِف|différent|adjectifs||
+مَشْهُور|célèbre|adjectifs||
+حَدِيث|moderne|adjectifs||
+كَرِيم|généreux|adjectifs||كُرَمَاء
+ذَكِيّ|intelligent|adjectifs||أَذْكِيَاء
+شُجَاع|courageux|adjectifs||شُجْعَان
+مُتْعَب|fatigué|adjectifs||
+مَسْرُور|content|adjectifs||
+# --- verbes
+اِسْتَطَاعَ|pouvoir|verbes||
+اِنْتَظَرَ|attendre|verbes||
+اِسْتَعْمَلَ|utiliser|verbes||
+تَعَلَّمَ|apprendre|verbes||
+عَلَّمَ|enseigner|verbes||
+سَاعَدَ|aider|verbes||
+شَاهَدَ|regarder|verbes|📺|
+أَرْسَلَ|envoyer|verbes||
+اِحْتَاجَ|avoir besoin|verbes||
+بَحَثَ|chercher|verbes|🔎|
+نَجَحَ|réussir|verbes||
+فَكَّرَ|penser / réfléchir|verbes|🤔|
+تَكَلَّمَ|parler|verbes|🗣️|
+اِخْتَارَ|choisir|verbes||
+قَرَّرَ|décider|verbes||
+وَصَلَ|arriver|verbes||

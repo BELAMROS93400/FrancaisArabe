@@ -1,0 +1,159 @@
+# Vocabulaire A1 : arabe (vocalisé, forme de pause) | français | thème | emoji (facultatif) | pluriel (facultatif)
+# Les alternatives françaises sont séparées par " / ".
+# --- famille
+أَب|un père|famille|👨|آبَاء
+أُمّ|une mère|famille|👩|أُمَّهَات
+أَخ|un frère|famille|👦|إِخْوَة
+أُخْت|une sœur|famille|👧|أَخَوَات
+اِبْن|un fils|famille||أَبْنَاء
+بِنْت|une fille|famille|👧|بَنَات
+جَدّ|un grand-père|famille|👴|أَجْدَاد
+جَدَّة|une grand-mère|famille|👵|جَدَّات
+عَائِلَة|une famille|famille|👪|عَائِلَات
+طِفْل|un enfant|famille|🧒|أَطْفَال
+رَجُل|un homme|famille|👨|رِجَال
+اِمْرَأَة|une femme|famille|👩|نِسَاء
+صَدِيق|un ami|famille|🧑‍🤝‍🧑|أَصْدِقَاء
+زَوْج|un mari|famille|🤵|أَزْوَاج
+زَوْجَة|une épouse|famille|👰|زَوْجَات
+# --- animaux
+قِطّ|un chat|animaux|🐱|قِطَط
+كَلْب|un chien|animaux|🐶|كِلَاب
+حِصَان|un cheval|animaux|🐴|أَحْصِنَة
+جَمَل|un chameau|animaux|🐫|جِمَال
+طَائِر|un oiseau|animaux|🐦|طُيُور
+سَمَكَة|un poisson|animaux|🐟|سَمَك
+بَقَرَة|une vache|animaux|🐄|بَقَرَات
+أَسَد|un lion|animaux|🦁|أُسُود
+فِيل|un éléphant|animaux|🐘|فِيَلَة
+أَرْنَب|un lapin|animaux|🐰|أَرَانِب
+فَأْر|une souris|animaux|🐭|فِئْرَان
+خَرُوف|un mouton|animaux|🐑|خِرَاف
+دَجَاجَة|une poule|animaux|🐔|دَجَاج
+قِرْد|un singe|animaux|🐒|قُرُود
+# --- nourriture
+خُبْز|du pain|nourriture|🍞|
+مَاء|de l'eau|nourriture|💧|مِيَاه
+حَلِيب|du lait|nourriture|🥛|
+تُفَّاحَة|une pomme|nourriture|🍎|تُفَّاح
+مَوْزَة|une banane|nourriture|🍌|مَوْز
+بُرْتُقَالَة|une orange|nourriture|🍊|بُرْتُقَال
+بَيْضَة|un œuf|nourriture|🥚|بَيْض
+لَحْم|de la viande|nourriture|🥩|لُحُوم
+أَرُزّ|du riz|nourriture|🍚|
+شَاي|du thé|nourriture|🍵|
+قَهْوَة|du café|nourriture|☕|
+عَصِير|du jus|nourriture|🧃|
+جُبْن|du fromage|nourriture|🧀|
+سُكَّر|du sucre|nourriture||
+مِلْح|du sel|nourriture|🧂|
+تَمْر|des dattes|nourriture||
+# --- maison
+بَيْت|une maison|maison|🏠|بُيُوت
+غُرْفَة|une chambre / une pièce|maison|🛏️|غُرَف
+بَاب|une porte|maison|🚪|أَبْوَاب
+نَافِذَة|une fenêtre|maison|🪟|نَوَافِذ
+مَطْبَخ|une cuisine|maison||مَطَابِخ
+سَرِير|un lit|maison|🛏️|أَسِرَّة
+كُرْسِيّ|une chaise|maison|🪑|كَرَاسِيّ
+طَاوِلَة|une table|maison||طَاوِلَات
+مِفْتَاح|une clé|maison|🔑|مَفَاتِيح
+سَاعَة|une montre / une heure|maison|⌚|سَاعَات
+هَاتِف|un téléphone|maison|📱|هَوَاتِف
+مِصْبَاح|une lampe|maison|💡|مَصَابِيح
+# --- école
+مَدْرَسَة|une école|école|🏫|مَدَارِس
+كِتَاب|un livre|école|📕|كُتُب
+قَلَم|un stylo / un crayon|école|✏️|أَقْلَام
+دَفْتَر|un cahier|école|📓|دَفَاتِر
+مُعَلِّم|un enseignant|école|🧑‍🏫|مُعَلِّمُون
+طَالِب|un étudiant / un élève|école|🧑‍🎓|طُلَّاب
+دَرْس|une leçon|école||دُرُوس
+وَرَقَة|une feuille|école|📄|أَوْرَاق
+حَقِيبَة|un sac|école|🎒|حَقَائِب
+لَوْح|un tableau|école||أَلْوَاح
+# --- corps
+رَأْس|une tête|corps||رُؤُوس
+عَيْن|un œil|corps|👁️|عُيُون
+يَد|une main|corps|✋|أَيْدٍ
+رِجْل|une jambe / un pied|corps|🦵|أَرْجُل
+فَم|une bouche|corps|👄|أَفْوَاه
+أَنْف|un nez|corps|👃|أُنُوف
+أُذُن|une oreille|corps|👂|آذَان
+قَلْب|un cœur|corps|❤️|قُلُوب
+شَعْر|des cheveux|corps||
+سِنّ|une dent|corps|🦷|أَسْنَان
+# --- couleurs
+أَحْمَر|rouge|couleurs|🟥|
+أَزْرَق|bleu|couleurs|🟦|
+أَخْضَر|vert|couleurs|🟩|
+أَصْفَر|jaune|couleurs|🟨|
+أَبْيَض|blanc|couleurs|⬜|
+أَسْوَد|noir|couleurs|⬛|
+# --- adjectifs
+كَبِير|grand|adjectifs||كِبَار
+صَغِير|petit|adjectifs||صِغَار
+جَمِيل|beau|adjectifs||
+جَدِيد|nouveau|adjectifs||جُدُد
+قَدِيم|ancien / vieux|adjectifs||
+طَوِيل|long / grand (taille)|adjectifs||طِوَال
+قَصِير|court / petit (taille)|adjectifs||
+سَعِيد|heureux|adjectifs|😊|سُعَدَاء
+حَزِين|triste|adjectifs|😢|
+حَارّ|chaud|adjectifs|🔥|
+بَارِد|froid|adjectifs|🥶|
+سَهْل|facile|adjectifs||
+صَعْب|difficile|adjectifs||
+كَثِير|nombreux / beaucoup|adjectifs||
+قَلِيل|peu nombreux / peu|adjectifs||
+# --- ville
+مَدِينَة|une ville|ville|🏙️|مُدُن
+شَارِع|une rue|ville||شَوَارِع
+سُوق|un marché|ville||أَسْوَاق
+مَسْجِد|une mosquée|ville|🕌|مَسَاجِد
+مُسْتَشْفَى|un hôpital|ville|🏥|مُسْتَشْفَيَات
+سَيَّارَة|une voiture|ville|🚗|سَيَّارَات
+حَافِلَة|un bus|ville|🚌|حَافِلَات
+قِطَار|un train|ville|🚆|قِطَارَات
+طَائِرَة|un avion|ville|✈️|طَائِرَات
+بَحْر|une mer|ville|🌊|بِحَار
+# --- nature et temps
+شَمْس|un soleil|nature|☀️|شُمُوس
+قَمَر|une lune|nature|🌙|أَقْمَار
+نَجْم|une étoile|nature|⭐|نُجُوم
+شَجَرَة|un arbre|nature|🌳|أَشْجَار
+وَرْدَة|une rose / une fleur|nature|🌹|وُرُود
+مَطَر|de la pluie|nature|🌧️|أَمْطَار
+سَمَاء|un ciel|nature||سَمَاوَات
+جَبَل|une montagne|nature|⛰️|جِبَال
+يَوْم|un jour|temps||أَيَّام
+لَيْل|la nuit|temps|🌃|
+صَبَاح|le matin|temps|🌅|
+مَسَاء|le soir|temps|🌆|
+أُسْبُوع|une semaine|temps||أَسَابِيع
+شَهْر|un mois|temps||أَشْهُر
+سَنَة|une année|temps||سَنَوَات
+اليَوْم|aujourd'hui|temps||
+غَدًا|demain|temps||
+أَمْسِ|hier|temps||
+# --- jours
+السَّبْت|samedi|jours||
+الأَحَد|dimanche|jours||
+الاِثْنَيْن|lundi|jours||
+الثُّلَاثَاء|mardi|jours||
+الأَرْبِعَاء|mercredi|jours||
+الخَمِيس|jeudi|jours||
+الجُمُعَة|vendredi|jours||
+# --- verbes
+أَكَلَ|manger (il a mangé)|verbes|🍽️|
+شَرِبَ|boire (il a bu)|verbes|🥤|
+كَتَبَ|écrire (il a écrit)|verbes|✍️|
+قَرَأَ|lire (il a lu)|verbes|📖|
+ذَهَبَ|aller (il est allé)|verbes||
+جَلَسَ|s'asseoir (il s'est assis)|verbes|🪑|
+نَامَ|dormir (il a dormi)|verbes|😴|
+لَعِبَ|jouer (il a joué)|verbes|⚽|
+فَتَحَ|ouvrir (il a ouvert)|verbes||
+دَخَلَ|entrer (il est entré)|verbes||
+خَرَجَ|sortir (il est sorti)|verbes||
+سَمِعَ|entendre (il a entendu)|verbes|👂|

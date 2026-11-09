@@ -1,0 +1,72 @@
+# Lectures. Format :
+# === niveau | titre
+# texte arabe (une ou plusieurs lignes)
+# ~ traduction française du texte
+# ? question (arabe) | bonne réponse | mauvaise 1 ; mauvaise 2 ; mauvaise 3 | traduction de la question
+=== A1 | عَائِلَةُ سَامِي
+اِسْمِي سَامِي. عُمْرِي عَشْرُ سَنَوَاتٍ. أَسْكُنُ فِي مَدِينَةِ الرِّبَاطِ مَعَ عَائِلَتِي. أَبِي مُعَلِّمٌ وَأُمِّي طَبِيبَةٌ. عِنْدِي أُخْتٌ صَغِيرَةٌ اسْمُهَا لَيْلَى. عِنْدَنَا قِطٌّ أَبْيَضُ اسْمُهُ نُورٌ.
+~ Je m'appelle Sami. J'ai dix ans. J'habite dans la ville de Rabat avec ma famille. Mon père est enseignant et ma mère est médecin. J'ai une petite sœur qui s'appelle Layla. Nous avons un chat blanc qui s'appelle Nour.
+? كَمْ عُمْرُ سَامِي؟|عَشْرُ سَنَوَاتٍ|سِتُّ سَنَوَاتٍ;عِشْرُونَ سَنَةً;سَنَتَانِ|Quel âge a Sami ?
+? أَيْنَ يَسْكُنُ سَامِي؟|فِي الرِّبَاطِ|فِي القَاهِرَةِ;فِي بَارِيسَ;فِي تُونِسَ|Où habite Sami ?
+? مَاذَا تَعْمَلُ أُمُّهُ؟|طَبِيبَةٌ|مُعَلِّمَةٌ;طَالِبَةٌ;مُهَنْدِسَةٌ|Que fait sa mère ?
+? مَا لَوْنُ القِطِّ؟|أَبْيَضُ|أَسْوَدُ;أَحْمَرُ;أَصْفَرُ|De quelle couleur est le chat ?
+=== A1 | فِي السُّوقِ
+ذَهَبَتْ فَاطِمَةُ إِلَى السُّوقِ يَوْمَ السَّبْتِ. اِشْتَرَتْ خُبْزًا وَتُفَّاحًا وَحَلِيبًا. السُّوقُ كَبِيرٌ وَجَمِيلٌ. رَجَعَتْ إِلَى البَيْتِ فِي السَّاعَةِ العَاشِرَةِ.
+~ Fatima est allée au marché samedi. Elle a acheté du pain, des pommes et du lait. Le marché est grand et beau. Elle est rentrée à la maison à dix heures.
+? مَتَى ذَهَبَتْ فَاطِمَةُ إِلَى السُّوقِ؟|يَوْمَ السَّبْتِ|يَوْمَ الأَحَدِ;يَوْمَ الجُمُعَةِ;يَوْمَ الخَمِيسِ|Quand Fatima est-elle allée au marché ?
+? مَاذَا اشْتَرَتْ؟|خُبْزًا وَتُفَّاحًا وَحَلِيبًا|لَحْمًا وَأَرُزًّا;قَهْوَةً وَسُكَّرًا;سَمَكًا وَجُبْنًا|Qu'a-t-elle acheté ?
+? كَيْفَ السُّوقُ؟|كَبِيرٌ وَجَمِيلٌ|صَغِيرٌ وَقَدِيمٌ;بَعِيدٌ وَمُغْلَقٌ;وَسِخٌ|Comment est le marché ?
+=== A2 | يَوْمٌ فِي حَيَاةِ كَرِيمٍ
+يَسْتَيْقِظُ كَرِيمٌ كُلَّ يَوْمٍ فِي السَّاعَةِ السَّادِسَةِ. يَشْرَبُ الشَّايَ وَيَأْكُلُ الخُبْزَ مَعَ الجُبْنِ. ثُمَّ يَذْهَبُ إِلَى العَمَلِ بِالحَافِلَةِ. يَعْمَلُ كَرِيمٌ مُوَظَّفًا فِي بَنْكٍ. يَرْجِعُ إِلَى البَيْتِ فِي المَسَاءِ، وَيَتَنَاوَلُ العَشَاءَ مَعَ عَائِلَتِهِ. فِي عُطْلَةِ نِهَايَةِ الأُسْبُوعِ يَلْعَبُ كُرَةَ القَدَمِ مَعَ أَصْدِقَائِهِ.
+~ Karim se réveille chaque jour à six heures. Il boit du thé et mange du pain avec du fromage. Puis il va au travail en bus. Karim travaille comme employé dans une banque. Il rentre à la maison le soir et dîne avec sa famille. Le week-end, il joue au football avec ses amis.
+? مَتَى يَسْتَيْقِظُ كَرِيمٌ؟|فِي السَّاعَةِ السَّادِسَةِ|فِي السَّاعَةِ الثَّامِنَةِ;فِي المَسَاءِ;فِي الظُّهْرِ|Quand Karim se réveille-t-il ?
+? كَيْفَ يَذْهَبُ إِلَى العَمَلِ؟|بِالحَافِلَةِ|بِالسَّيَّارَةِ;بِالقِطَارِ;مَشْيًا|Comment va-t-il au travail ?
+? أَيْنَ يَعْمَلُ كَرِيمٌ؟|فِي بَنْكٍ|فِي مُسْتَشْفًى;فِي مَدْرَسَةٍ;فِي مَطْعَمٍ|Où travaille Karim ?
+? مَاذَا يَفْعَلُ فِي عُطْلَةِ نِهَايَةِ الأُسْبُوعِ؟|يَلْعَبُ كُرَةَ القَدَمِ|يَذْهَبُ إِلَى البَنْكِ;يَطْبُخُ العَشَاءَ;يَقْرَأُ الجَرِيدَةَ|Que fait-il le week-end ?
+=== A2 | رِحْلَةٌ إِلَى البَحْرِ
+فِي الصَّيْفِ المَاضِي، سَافَرَتْ عَائِلَتِي إِلَى مَدِينَةٍ صَغِيرَةٍ عَلَى البَحْرِ. بَقِينَا هُنَاكَ أُسْبُوعًا. كَانَ الجَوُّ حَارًّا، فَسَبَحْنَا كُلَّ يَوْمٍ. أَكَلْنَا سَمَكًا لَذِيذًا فِي مَطْعَمٍ قَرِيبٍ مِنَ الشَّاطِئِ. كَانَتْ رِحْلَةً رَائِعَةً.
+~ L'été dernier, ma famille a voyagé dans une petite ville au bord de la mer. Nous y sommes restés une semaine. Il faisait chaud, alors nous avons nagé tous les jours. Nous avons mangé un délicieux poisson dans un restaurant proche de la plage. C'était un voyage magnifique.
+? مَتَى سَافَرَتِ العَائِلَةُ؟|فِي الصَّيْفِ المَاضِي|فِي الشِّتَاءِ;فِي الرَّبِيعِ القَادِمِ;أَمْسِ|Quand la famille a-t-elle voyagé ?
+? كَمْ بَقُوا هُنَاكَ؟|أُسْبُوعًا|شَهْرًا;يَوْمًا;سَنَةً|Combien de temps y sont-ils restés ?
+? لِمَاذَا سَبَحُوا كُلَّ يَوْمٍ؟|لِأَنَّ الجَوَّ كَانَ حَارًّا|لِأَنَّ الجَوَّ كَانَ بَارِدًا;لِأَنَّ البَحْرَ بَعِيدٌ;لِأَنَّهُمْ مَرْضَى|Pourquoi ont-ils nagé tous les jours ?
+? مَاذَا أَكَلُوا فِي المَطْعَمِ؟|سَمَكًا|لَحْمًا;أَرُزًّا;دَجَاجًا|Qu'ont-ils mangé au restaurant ?
+=== B1 | تَعَلُّمُ اللُّغَاتِ
+أَصْبَحَ تَعَلُّمُ اللُّغَاتِ الأَجْنَبِيَّةِ ضَرُورِيًّا فِي عَصْرِنَا. فَاللُّغَةُ الثَّانِيَةُ تَفْتَحُ أَبْوَابَ العَمَلِ، وَتُسَاعِدُ عَلَى فَهْمِ ثَقَافَاتِ الشُّعُوبِ الأُخْرَى. وَيَنْصَحُ الخُبَرَاءُ بِالمُمَارَسَةِ اليَوْمِيَّةِ وَلَوْ لِعَشْرِ دَقَائِقَ، وَبِالاِسْتِمَاعِ إِلَى الأَخْبَارِ وَقِرَاءَةِ القِصَصِ القَصِيرَةِ. أَمَّا الخَوْفُ مِنَ الخَطَأِ فَهُوَ أَكْبَرُ عَائِقٍ أَمَامَ المُتَعَلِّمِ.
+~ Apprendre les langues étrangères est devenu nécessaire à notre époque. Une seconde langue ouvre les portes de l'emploi et aide à comprendre les cultures des autres peuples. Les experts conseillent de pratiquer chaque jour, ne serait-ce que dix minutes, d'écouter les informations et de lire des nouvelles. Quant à la peur de se tromper, c'est le plus grand obstacle pour l'apprenant.
+? مَا فَائِدَةُ اللُّغَةِ الثَّانِيَةِ حَسَبَ النَّصِّ؟|تَفْتَحُ أَبْوَابَ العَمَلِ|تُسَهِّلُ السِّبَاحَةَ;تُقَلِّلُ الضَّرَائِبَ;تَمْنَعُ الخَطَأَ|Quel est l'avantage d'une seconde langue selon le texte ?
+? كَمْ دَقِيقَةً يَنْصَحُ الخُبَرَاءُ بِالمُمَارَسَةِ عَلَى الأَقَلِّ؟|عَشْرَ دَقَائِقَ|سَاعَةً كَامِلَةً;خَمْسَ دَقَائِقَ;ثَلَاثِينَ دَقِيقَةً|Combien de minutes au minimum les experts conseillent-ils ?
+? مَا أَكْبَرُ عَائِقٍ أَمَامَ المُتَعَلِّمِ؟|الخَوْفُ مِنَ الخَطَأِ|قِلَّةُ الكُتُبِ;صُعُوبَةُ الأَخْبَارِ;غَلَاءُ الدُّرُوسِ|Quel est le plus grand obstacle pour l'apprenant ?
+=== B1 | المُدُنُ الذَّكِيَّةُ
+تَسْعَى مُدُنٌ كَثِيرَةٌ إِلَى أَنْ تُصْبِحَ «مُدُنًا ذَكِيَّةً». فِي هٰذِهِ المُدُنِ تُسْتَخْدَمُ التِّكْنُولُوجِيَا لِتَنْظِيمِ حَرَكَةِ المُرُورِ وَتَوْفِيرِ الطَّاقَةِ. فَمَثَلًا، تُطْفَأُ أَضْوَاءُ الشَّوَارِعِ تِلْقَائِيًّا عِنْدَمَا لَا يَمُرُّ أَحَدٌ. لٰكِنَّ بَعْضَ السُّكَّانِ يَخْشَوْنَ عَلَى خُصُوصِيَّتِهِمْ بِسَبَبِ كَثْرَةِ الكَامِيرَاتِ.
+~ De nombreuses villes cherchent à devenir des « villes intelligentes ». Dans ces villes, on utilise la technologie pour organiser la circulation et économiser l'énergie. Par exemple, l'éclairage des rues s'éteint automatiquement quand personne ne passe. Mais certains habitants craignent pour leur vie privée à cause du grand nombre de caméras.
+? لِمَاذَا تُسْتَخْدَمُ التِّكْنُولُوجِيَا فِي المُدُنِ الذَّكِيَّةِ؟|لِتَنْظِيمِ المُرُورِ وَتَوْفِيرِ الطَّاقَةِ|لِبِنَاءِ المَسَاجِدِ;لِزِيَادَةِ الضَّرَائِبِ;لِتَعْلِيمِ اللُّغَاتِ|Pourquoi utilise-t-on la technologie dans les villes intelligentes ?
+? مَتَى تُطْفَأُ أَضْوَاءُ الشَّوَارِعِ؟|عِنْدَمَا لَا يَمُرُّ أَحَدٌ|فِي الصَّبَاحِ فَقَطْ;عِنْدَمَا يَنْزِلُ المَطَرُ;كُلَّ سَاعَةٍ|Quand l'éclairage des rues s'éteint-il ?
+? مِمَّ يَخْشَى بَعْضُ السُّكَّانِ؟|عَلَى خُصُوصِيَّتِهِمْ|مِنَ الظَّلَامِ;مِنْ غَلَاءِ الكَهْرَبَاءِ;مِنَ الزِّحَامِ|Que craignent certains habitants ?
+=== B2 | الهِجْرَةُ مِنَ الرِّيفِ
+شَهِدَتِ العُقُودُ الأَخِيرَةُ هِجْرَةً وَاسِعَةً مِنَ الرِّيفِ إِلَى المُدُنِ. وَيُعْزَى ذٰلِكَ أَسَاسًا إِلَى قِلَّةِ فُرَصِ العَمَلِ وَضَعْفِ الخِدْمَاتِ فِي القُرَى. غَيْرَ أَنَّ هٰذِهِ الهِجْرَةَ أَدَّتْ إِلَى اكْتِظَاظِ المُدُنِ وَارْتِفَاعِ أَسْعَارِ السَّكَنِ. وَلِمُوَاجَهَةِ هٰذِهِ الظَّاهِرَةِ، تَقْتَرِحُ بَعْضُ الحُكُومَاتِ تَشْجِيعَ الاِسْتِثْمَارِ فِي المَنَاطِقِ الرِّيفِيَّةِ.
+~ Les dernières décennies ont connu un vaste exode rural vers les villes. Cela s'explique principalement par le manque d'emplois et la faiblesse des services dans les villages. Toutefois, cette migration a entraîné la surpopulation des villes et la hausse des prix du logement. Pour faire face à ce phénomène, certains gouvernements proposent d'encourager l'investissement dans les zones rurales.
+? إِلَامَ يُعْزَى سَبَبُ الهِجْرَةِ أَسَاسًا؟|قِلَّةِ فُرَصِ العَمَلِ وَضَعْفِ الخِدْمَاتِ|كَثْرَةِ الأَمْطَارِ;ارْتِفَاعِ أَسْعَارِ السَّكَنِ فِي القُرَى;حُبِّ السَّفَرِ|À quoi la migration est-elle principalement attribuée ?
+? مَا نَتِيجَةُ الهِجْرَةِ عَلَى المُدُنِ؟|اِكْتِظَاظُهَا وَارْتِفَاعُ أَسْعَارِ السَّكَنِ|اِنْخِفَاضُ عَدَدِ السُّكَّانِ;تَحَسُّنُ الخِدْمَاتِ;زِيَادَةُ الغَابَاتِ|Quelle est la conséquence de la migration sur les villes ?
+? مَا الحَلُّ الَّذِي تَقْتَرِحُهُ بَعْضُ الحُكُومَاتِ؟|تَشْجِيعُ الاِسْتِثْمَارِ فِي الرِّيفِ|مَنْعُ السَّفَرِ;بِنَاءُ مُدُنٍ جَدِيدَةٍ فِي الصَّحْرَاءِ;رَفْعُ الضَّرَائِبِ|Quelle solution proposent certains gouvernements ?
+=== B2 | القِرَاءَةُ فِي العَصْرِ الرَّقْمِيِّ
+يَتَسَاءَلُ كَثِيرُونَ: هَلْ مَا زَالَ لِلْكِتَابِ الوَرَقِيِّ مَكَانٌ فِي العَصْرِ الرَّقْمِيِّ؟ تُشِيرُ الدِّرَاسَاتُ إِلَى أَنَّ القِرَاءَةَ عَلَى الشَّاشَةِ أَسْرَعُ، لٰكِنَّ الفَهْمَ العَمِيقَ يَكُونُ أَفْضَلَ عِنْدَ القِرَاءَةِ عَلَى الوَرَقِ. وَمَعَ ذٰلِكَ، يُوَفِّرُ الكِتَابُ الإِلِكْتُرُونِيُّ إِمْكَانِيَّةَ حَمْلِ مَكْتَبَةٍ كَامِلَةٍ فِي الجَيْبِ.
+~ Beaucoup se demandent : le livre papier a-t-il encore sa place à l'ère numérique ? Les études indiquent que la lecture sur écran est plus rapide, mais que la compréhension en profondeur est meilleure sur papier. Néanmoins, le livre électronique offre la possibilité de porter une bibliothèque entière dans sa poche.
+? مَاذَا تُشِيرُ الدِّرَاسَاتُ بِخُصُوصِ الفَهْمِ العَمِيقِ؟|يَكُونُ أَفْضَلَ عَلَى الوَرَقِ|يَكُونُ أَفْضَلَ عَلَى الشَّاشَةِ;لَا فَرْقَ بَيْنَهُمَا;يَكُونُ مُسْتَحِيلًا|Que disent les études sur la compréhension en profondeur ?
+? مَا مِيزَةُ الكِتَابِ الإِلِكْتُرُونِيِّ المَذْكُورَةُ؟|حَمْلُ مَكْتَبَةٍ كَامِلَةٍ فِي الجَيْبِ|الفَهْمُ العَمِيقُ;رَائِحَةُ الوَرَقِ;رُخْصُ الثَّمَنِ دَائِمًا|Quel avantage du livre électronique est mentionné ?
+=== C1 | اللُّغَةُ وَالهُوِيَّةُ
+لَا تَقْتَصِرُ اللُّغَةُ عَلَى كَوْنِهَا أَدَاةً لِلتَّوَاصُلِ، بَلْ هِيَ وِعَاءُ الفِكْرِ وَمِرْآةُ الهُوِيَّةِ. فَحِينَ تَنْدَثِرُ لُغَةٌ مَا، يَضِيعُ مَعَهَا تُرَاثٌ مِنَ الحِكَمِ وَالأَشْعَارِ وَطُرُقِ النَّظَرِ إِلَى العَالَمِ. وَمِنْ هُنَا، تَتَعَالَى الأَصْوَاتُ المُطَالِبَةُ بِحِمَايَةِ التَّنَوُّعِ اللُّغَوِيِّ، دُونَ أَنْ يَعْنِيَ ذٰلِكَ الاِنْغِلَاقَ عَلَى الذَّاتِ أَوْ رَفْضَ تَعَلُّمِ لُغَاتِ الآخَرِينَ.
+~ La langue ne se limite pas à être un outil de communication : elle est le réceptacle de la pensée et le miroir de l'identité. Quand une langue disparaît, c'est tout un patrimoine de sagesses, de poèmes et de manières de voir le monde qui se perd avec elle. D'où les voix qui s'élèvent pour réclamer la protection de la diversité linguistique, sans que cela signifie le repli sur soi ni le refus d'apprendre les langues des autres.
+? كَيْفَ يَصِفُ الكَاتِبُ اللُّغَةَ؟|وِعَاءُ الفِكْرِ وَمِرْآةُ الهُوِيَّةِ|أَدَاةٌ لِلتَّوَاصُلِ فَقَطْ;عَائِقٌ أَمَامَ التَّقَدُّمِ;مَجْمُوعَةُ قَوَاعِدَ جَافَّةٍ|Comment l'auteur décrit-il la langue ?
+? مَاذَا يَضِيعُ حِينَ تَنْدَثِرُ لُغَةٌ؟|تُرَاثٌ مِنَ الحِكَمِ وَالأَشْعَارِ|المَالُ وَالثَّرْوَةُ;الحُدُودُ الجُغْرَافِيَّةُ;الكُتُبُ المُتَرْجَمَةُ فَقَطْ|Que perd-on quand une langue disparaît ?
+? هَلْ يَدْعُو الكَاتِبُ إِلَى رَفْضِ تَعَلُّمِ لُغَاتِ الآخَرِينَ؟|لَا، يَرْفُضُ الاِنْغِلَاقَ عَلَى الذَّاتِ|نَعَمْ، بِشِدَّةٍ;نَعَمْ، فِي بَعْضِ الحَالَاتِ;لَا يَذْكُرُ ذٰلِكَ|L'auteur appelle-t-il à refuser d'apprendre les langues des autres ?
+=== C2 | فِي فَنِّ المَقَالَةِ
+المَقَالَةُ فَنٌّ نَثْرِيٌّ يَجْمَعُ بَيْنَ وُضُوحِ الفِكْرَةِ وَجَمَالِ العِبَارَةِ. وَقَدْ بَلَغَتْ أَوْجَهَا فِي النِّصْفِ الأَوَّلِ مِنَ القَرْنِ العِشْرِينَ عَلَى أَيْدِي أَعْلَامٍ جَعَلُوا مِنَ الصُّحُفِ مَنَابِرَ لِلنَّقْدِ وَالإِصْلَاحِ. وَلَئِنْ تَرَاجَعَ حُضُورُهَا الوَرَقِيُّ، فَإِنَّهَا لَمْ تَفْقِدْ جَوْهَرَهَا، إِذِ انْتَقَلَتْ إِلَى الفَضَاءِ الرَّقْمِيِّ حَيْثُ اتَّسَعَتْ دَائِرَةُ قُرَّائِهَا.
+~ L'article (essai) est un art en prose qui allie clarté de l'idée et beauté de l'expression. Il a connu son apogée dans la première moitié du XXe siècle grâce à des figures qui ont fait des journaux des tribunes de critique et de réforme. Si sa présence sur papier a reculé, il n'a pas perdu son essence, puisqu'il est passé à l'espace numérique où le cercle de ses lecteurs s'est élargi.
+? مَتَى بَلَغَتِ المَقَالَةُ أَوْجَهَا؟|فِي النِّصْفِ الأَوَّلِ مِنَ القَرْنِ العِشْرِينَ|فِي العَصْرِ العَبَّاسِيِّ;فِي القَرْنِ الحَادِي وَالعِشْرِينَ;قَبْلَ الإِسْلَامِ|Quand l'article a-t-il atteint son apogée ?
+? مَاذَا حَدَثَ لِلْمَقَالَةِ فِي العَصْرِ الرَّقْمِيِّ؟|اِتَّسَعَتْ دَائِرَةُ قُرَّائِهَا|اِخْتَفَتْ تَمَامًا;فَقَدَتْ جَوْهَرَهَا;أَصْبَحَتْ شِعْرًا|Qu'est-il arrivé à l'article à l'ère numérique ?
+=== Expert | مِنْ كَلِيلَةَ وَدِمْنَةَ
+زَعَمُوا أَنَّ غَدِيرًا كَانَ فِيهِ ثَلَاثُ سَمَكَاتٍ: كَيِّسَةٌ، وَأَكْيَسُ مِنْهَا، وَعَاجِزَةٌ. فَمَرَّ بِذٰلِكَ الغَدِيرِ صَيَّادَانِ، فَتَوَاعَدَا أَنْ يَرْجِعَا بِشِبَاكِهِمَا. فَأَمَّا أَكْيَسُ السَّمَكَاتِ فَخَرَجَتْ مِنْ فَوْرِهَا إِلَى النَّهْرِ، وَأَمَّا الكَيِّسَةُ فَتَمَاوَتَتْ حَتَّى أُلْقِيَتْ خَارِجَ الشَّبَكَةِ فَنَجَتْ، وَأَمَّا العَاجِزَةُ فَلَمْ تَزَلْ فِي إِقْبَالٍ وَإِدْبَارٍ حَتَّى صِيدَتْ.
+~ On raconte qu'un étang abritait trois poissons : une avisée, une plus avisée encore, et une incapable. Deux pêcheurs passèrent près de l'étang et convinrent de revenir avec leurs filets. La plus avisée sortit aussitôt vers le fleuve ; l'avisée fit la morte jusqu'à être jetée hors du filet, et se sauva ; quant à l'incapable, elle ne cessa d'aller et venir jusqu'à être prise. (d'après Ibn al-Muqaffa', Kalîla wa Dimna)
+? مَاذَا فَعَلَتْ أَكْيَسُ السَّمَكَاتِ؟|خَرَجَتْ فَوْرًا إِلَى النَّهْرِ|تَمَاوَتَتْ;صِيدَتْ;نَامَتْ فِي الغَدِيرِ|Qu'a fait le plus avisé des poissons ?
+? كَيْفَ نَجَتِ السَّمَكَةُ الكَيِّسَةُ؟|تَمَاوَتَتْ فَأُلْقِيَتْ خَارِجَ الشَّبَكَةِ|خَرَجَتْ قَبْلَ الصَّيَّادَيْنِ;قَطَعَتِ الشَّبَكَةَ;اِخْتَبَأَتْ تَحْتَ حَجَرٍ|Comment le poisson avisé s'est-il sauvé ?
+? مَا مَصِيرُ السَّمَكَةِ العَاجِزَةِ؟|صِيدَتْ|نَجَتْ;خَرَجَتْ إِلَى النَّهْرِ;أَصْبَحَتْ كَيِّسَةً|Quel fut le sort du poisson incapable ?

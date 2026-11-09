@@ -1,0 +1,110 @@
+# Vocabulaire A2 : arabe | français | thème | emoji | pluriel
+# --- métiers
+طَبِيب|un médecin|métiers|🧑‍⚕️|أَطِبَّاء
+مُهَنْدِس|un ingénieur|métiers|👷|مُهَنْدِسُون
+مُمَرِّضَة|une infirmière|métiers||مُمَرِّضَات
+شُرْطِيّ|un policier|métiers|👮|شُرْطِيُّون
+طَبَّاخ|un cuisinier|métiers|🧑‍🍳|طَبَّاخُون
+فَلَّاح|un paysan / un agriculteur|métiers|🧑‍🌾|فَلَّاحُون
+تَاجِر|un commerçant|métiers||تُجَّار
+سَائِق|un chauffeur|métiers||سَائِقُون
+صَحَفِيّ|un journaliste|métiers||صَحَفِيُّون
+مُحَامٍ|un avocat|métiers|⚖️|مُحَامُون
+مُوَظَّف|un employé / un fonctionnaire|métiers||مُوَظَّفُون
+عَامِل|un ouvrier|métiers||عُمَّال
+# --- vêtements
+قَمِيص|une chemise|vêtements|👔|قُمْصَان
+فُسْتَان|une robe|vêtements|👗|فَسَاتِين
+حِذَاء|une chaussure|vêtements|👞|أَحْذِيَة
+سِرْوَال|un pantalon|vêtements|👖|سَرَاوِيل
+مِعْطَف|un manteau|vêtements|🧥|مَعَاطِف
+قُبَّعَة|un chapeau|vêtements|👒|قُبَّعَات
+نَظَّارَة|des lunettes|vêtements|👓|نَظَّارَات
+# --- nourriture 2
+خُضَار|des légumes|nourriture|🥦|
+فَاكِهَة|un fruit|nourriture||فَوَاكِه
+طَمَاطِم|des tomates|nourriture|🍅|
+بَصَل|des oignons|nourriture|🧅|
+عِنَب|du raisin|nourriture|🍇|أَعْنَاب
+عَسَل|du miel|nourriture|🍯|
+زَيْت|de l'huile|nourriture||زُيُوت
+سَلَطَة|une salade|nourriture|🥗|سَلَطَات
+فَطُور|le petit-déjeuner|nourriture|🥐|
+غَدَاء|le déjeuner|nourriture||
+عَشَاء|le dîner|nourriture||
+مَطْعَم|un restaurant|nourriture|🍽️|مَطَاعِم
+# --- ville 2
+بَنْك|une banque|ville|🏦|بُنُوك
+مَكْتَبَة|une bibliothèque / une librairie|ville|📚|مَكْتَبَات
+فُنْدُق|un hôtel|ville|🏨|فَنَادِق
+مَطَار|un aéroport|ville|🛫|مَطَارَات
+مَحَطَّة|une gare / une station|ville|🚉|مَحَطَّات
+جَامِعَة|une université|ville|🎓|جَامِعَات
+حَدِيقَة|un jardin / un parc|ville|🌳|حَدَائِق
+مَتْجَر|un magasin|ville|🏬|مَتَاجِر
+صَيْدَلِيَّة|une pharmacie|ville|💊|صَيْدَلِيَّات
+مَلْعَب|un stade / un terrain|ville|🏟️|مَلَاعِب
+جِسْر|un pont|ville|🌉|جُسُور
+قَرْيَة|un village|ville|🏘️|قُرًى
+# --- nature 2
+نَهْر|un fleuve / une rivière|nature|🏞️|أَنْهَار
+صَحْرَاء|un désert|nature|🏜️|صَحَارَى
+غَابَة|une forêt|nature|🌲|غَابَات
+رِيح|un vent|nature|💨|رِيَاح
+ثَلْج|de la neige|nature|❄️|ثُلُوج
+سَحَاب|des nuages|nature|☁️|سُحُب
+بُحَيْرَة|un lac|nature||بُحَيْرَات
+أَرْض|une terre / un sol|nature|🌍|أَرَاضٍ
+حَجَر|une pierre|nature|🪨|أَحْجَار
+نَار|un feu|nature|🔥|نِيرَان
+# --- saisons et mois
+رَبِيع|le printemps|temps|🌸|
+صَيْف|l'été|temps|🏖️|
+خَرِيف|l'automne|temps|🍂|
+شِتَاء|l'hiver|temps|⛄|
+دَقِيقَة|une minute|temps||دَقَائِق
+# --- loisirs
+رِيَاضَة|un sport|loisirs|🏅|رِيَاضَات
+كُرَة|un ballon|loisirs|⚽|كُرَات
+سِبَاحَة|la natation|loisirs|🏊|
+رِحْلَة|un voyage|loisirs|🧳|رِحْلَات
+فِيلْم|un film|loisirs|🎬|أَفْلَام
+مُوسِيقَى|la musique|loisirs|🎵|
+صُورَة|une photo / une image|loisirs|📷|صُوَر
+لُعْبَة|un jeu / un jouet|loisirs|🎮|أَلْعَاب
+هِوَايَة|un passe-temps|loisirs||هِوَايَات
+عُطْلَة|des vacances|loisirs|🏖️|عُطَل
+# --- adjectifs 2
+غَنِيّ|riche|adjectifs||أَغْنِيَاء
+فَقِير|pauvre|adjectifs||فُقَرَاء
+قَوِيّ|fort|adjectifs|💪|أَقْوِيَاء
+ضَعِيف|faible|adjectifs||ضُعَفَاء
+سَرِيع|rapide|adjectifs||
+بَطِيء|lent|adjectifs|🐢|
+نَظِيف|propre|adjectifs||
+وَسِخ|sale|adjectifs||
+غَالٍ|cher|adjectifs||
+رَخِيص|bon marché|adjectifs||
+مَرِيض|malade|adjectifs|🤒|مَرْضَى
+جَائِع|affamé|adjectifs||
+عَطْشَان|assoiffé|adjectifs||
+مَشْغُول|occupé|adjectifs||
+قَرِيب|proche|adjectifs||
+بَعِيد|loin / lointain|adjectifs||
+# --- verbes 2
+عَمِلَ|travailler|verbes||
+دَرَسَ|étudier|verbes||
+سَكَنَ|habiter|verbes||
+رَجَعَ|revenir / rentrer|verbes||
+شَكَرَ|remercier|verbes|🙏|
+طَبَخَ|cuisiner|verbes|🍳|
+غَسَلَ|laver|verbes||
+رَكِبَ|monter (dans un véhicule)|verbes||
+فَهِمَ|comprendre|verbes||
+عَرَفَ|savoir / connaître|verbes||
+ضَحِكَ|rire|verbes|😂|
+حَمَلَ|porter|verbes||
+سَافَرَ|voyager|verbes|✈️|
+اِشْتَرَى|acheter|verbes|🛒|
+بَاعَ|vendre|verbes||
+أَحَبَّ|aimer|verbes|❤️|

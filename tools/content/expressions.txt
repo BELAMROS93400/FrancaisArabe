@@ -1,0 +1,67 @@
+# Expressions : niveau | type | expression arabe | sens en français | exemple avec ___ (ou -) | mot du trou | traduction de l'exemple
+A1|politesse|مِنْ فَضْلِكَ|s'il te plaît|أَعْطِنِي المَاءَ ___ فَضْلِكَ.|مِنْ|Donne-moi l'eau, s'il te plaît.
+A1|politesse|شُكْرًا جَزِيلًا|merci beaucoup|شُكْرًا ___ عَلَى المُسَاعَدَةِ.|جَزِيلًا|Merci beaucoup pour l'aide.
+A1|politesse|عَفْوًا|de rien / pardon|-||
+A1|politesse|صَبَاحُ الخَيْرِ|bonjour (le matin)|صَبَاحُ ___ يَا أُمِّي!|الخَيْرِ|Bonjour, maman !
+A1|politesse|مَسَاءُ الخَيْرِ|bonsoir|-||
+A1|politesse|أَهْلًا وَسَهْلًا|bienvenue|أَهْلًا ___ فِي بَيْتِنَا.|وَسَهْلًا|Bienvenue dans notre maison.
+A1|politesse|مَعَ السَّلَامَةِ|au revoir|-||
+A1|politesse|تُصْبِحُ عَلَى خَيْرٍ|bonne nuit|-||
+A1|politesse|السَّلَامُ عَلَيْكُمْ|que la paix soit sur vous (salutation)|-||
+A1|politesse|وَعَلَيْكُمُ السَّلَامُ|et sur vous la paix (réponse à la salutation)|-||
+A1|politesse|تَشَرَّفْنَا|enchanté|-||
+A1|politesse|آسِف|désolé|أَنَا ___ عَلَى التَّأَخُّرِ.|آسِفٌ|Je suis désolé pour le retard.
+A2|courantes|إِنْ شَاءَ اللهُ|si Dieu le veut / j'espère|سَأَرَاكَ غَدًا ___ شَاءَ اللهُ.|إِنْ|Je te verrai demain, si Dieu le veut.
+A2|courantes|الحَمْدُ لِلّٰهِ|Dieu merci|-||
+A2|courantes|مَا شَاءَ اللهُ|quelle merveille (admiration)|-||
+A2|courantes|بِالتَّوْفِيقِ|bonne chance|___ فِي الاِمْتِحَانِ!|بِالتَّوْفِيقِ|Bonne chance pour l'examen !
+A2|courantes|مَبْرُوك|félicitations|-||
+A2|courantes|عِيد سَعِيد|bonne fête|-||
+A2|courantes|بِالهَنَاءِ وَالشِّفَاءِ|bon appétit|-||
+A2|courantes|سَلَامَتُكَ|prompt rétablissement|-||
+A2|courantes|لَا بَأْسَ|ce n'est pas grave / ça va|-||
+A2|courantes|عَلَى فِكْرَةٍ|au fait / à propos|___ فِكْرَةٍ، أَيْنَ أَخُوكَ؟|عَلَى|Au fait, où est ton frère ?
+A2|courantes|مِنْ وَقْتٍ لِآخَرَ|de temps en temps|أَزُورُ جَدِّي مِنْ وَقْتٍ ___ .|لِآخَرَ|Je rends visite à mon grand-père de temps en temps.
+B1|collocations|أَخَذَ صُورَةً|prendre une photo|___ صُورَةً لِلْبَحْرِ.|أَخَذْتُ|J'ai pris une photo de la mer.
+B1|collocations|اِتَّخَذَ قَرَارًا|prendre une décision|اِتَّخَذَ المُدِيرُ ___ مُهِمًّا.|قَرَارًا|Le directeur a pris une décision importante.
+B1|collocations|أَلْقَى مُحَاضَرَةً|donner une conférence|أَلْقَى الأُسْتَاذُ ___ عَنِ التَّارِيخِ.|مُحَاضَرَةً|Le professeur a donné une conférence sur l'histoire.
+B1|collocations|قَامَ بِزِيَارَةٍ|effectuer une visite|قَامَ الوَزِيرُ ___ إِلَى المَدْرَسَةِ.|بِزِيَارَةٍ|Le ministre a effectué une visite à l'école.
+B1|collocations|لَعِبَ دَوْرًا|jouer un rôle|تَلْعَبُ الأُسْرَةُ ___ مُهِمًّا.|دَوْرًا|La famille joue un rôle important.
+B1|collocations|بَذَلَ جُهْدًا|fournir un effort|بَذَلَ الطُّلَّابُ ___ كَبِيرًا.|جُهْدًا|Les étudiants ont fourni un grand effort.
+B1|collocations|حَصَلَ عَلَى|obtenir|حَصَلَتْ ___ شَهَادَةٍ.|عَلَى|Elle a obtenu un diplôme.
+B1|collocations|أَخَذَ بِعَيْنِ الاِعْتِبَارِ|prendre en considération|يَجِبُ أَنْ نَأْخُذَ رَأْيَهُ بِعَيْنِ ___ .|الاِعْتِبَارِ|Nous devons prendre son avis en considération.
+B1|imagées|عَلَى قَدَمٍ وَسَاقٍ|battre son plein|العَمَلُ عَلَى قَدَمٍ ___ .|وَسَاقٍ|Le travail bat son plein.
+B1|imagées|بِفَارِغِ الصَّبْرِ|avec impatience|أَنْتَظِرُ العُطْلَةَ بِفَارِغِ ___ .|الصَّبْرِ|J'attends les vacances avec impatience.
+B2|imagées|يَدًا بِيَدٍ|main dans la main|نَعْمَلُ ___ بِيَدٍ.|يَدًا|Nous travaillons main dans la main.
+B2|imagées|بَيْنَ عَشِيَّةٍ وَضُحَاهَا|du jour au lendemain|تَغَيَّرَ كُلُّ شَيْءٍ بَيْنَ عَشِيَّةٍ ___ .|وَضُحَاهَا|Tout a changé du jour au lendemain.
+B2|imagées|فِي نِهَايَةِ المَطَافِ|en fin de compte|فِي نِهَايَةِ ___ ، نَجَحَ المَشْرُوعُ.|المَطَافِ|En fin de compte, le projet a réussi.
+B2|imagées|عَلَى أَحَرِّ مِنَ الجَمْرِ|sur des charbons ardents (très impatient)|كُنْتُ عَلَى أَحَرِّ مِنَ ___ .|الجَمْرِ|J'étais sur des charbons ardents.
+B2|imagées|ضَرَبَ عُصْفُورَيْنِ بِحَجَرٍ وَاحِدٍ|faire d'une pierre deux coups|ضَرَبْتُ ___ بِحَجَرٍ وَاحِدٍ.|عُصْفُورَيْنِ|J'ai fait d'une pierre deux coups.
+B2|imagées|غَضَّ الطَّرْفَ عَنْ|fermer les yeux sur|لَا يُمْكِنُ أَنْ نَغُضَّ ___ عَنْ هٰذِهِ المُشْكِلَةِ.|الطَّرْفَ|On ne peut pas fermer les yeux sur ce problème.
+B2|imagées|وَضَعَ النِّقَاطَ عَلَى الحُرُوفِ|mettre les points sur les i|وَضَعَ الرَّئِيسُ النِّقَاطَ عَلَى ___ .|الحُرُوفِ|Le président a mis les points sur les i.
+B2|proverbes|الوَقْتُ مِنْ ذَهَبٍ|le temps, c'est de l'or|الوَقْتُ مِنْ ___ .|ذَهَبٍ|Le temps, c'est de l'or.
+B2|proverbes|الصَّبْرُ مِفْتَاحُ الفَرَجِ|la patience est la clé du soulagement|الصَّبْرُ ___ الفَرَجِ.|مِفْتَاحُ|La patience est la clé du soulagement.
+B2|proverbes|الصَّدِيقُ وَقْتَ الضِّيقِ|c'est dans le besoin qu'on reconnaît ses amis|الصَّدِيقُ وَقْتَ ___ .|الضِّيقِ|L'ami (se reconnaît) au moment de la détresse.
+B2|proverbes|مَنْ جَدَّ وَجَدَ|qui cherche trouve / l'effort paie|مَنْ جَدَّ ___ .|وَجَدَ|Qui s'efforce trouve.
+C1|proverbes|لِكُلِّ جَوَادٍ كَبْوَةٌ|tout le monde peut se tromper (chaque cheval trébuche)|لِكُلِّ جَوَادٍ ___ .|كَبْوَةٌ|Chaque pur-sang trébuche un jour.
+C1|proverbes|سَبَقَ السَّيْفُ العَذَلَ|il est trop tard pour les reproches|سَبَقَ السَّيْفُ ___ .|العَذَلَ|L'épée a devancé le reproche.
+C1|proverbes|إِذَا كَانَ الكَلَامُ مِنْ فِضَّةٍ فَالسُّكُوتُ مِنْ ذَهَبٍ|la parole est d'argent, le silence est d'or|إِذَا كَانَ الكَلَامُ مِنْ فِضَّةٍ فَالسُّكُوتُ مِنْ ___ .|ذَهَبٍ|Si la parole est d'argent, le silence est d'or.
+C1|proverbes|اُطْلُبُوا العِلْمَ مِنَ المَهْدِ إِلَى اللَّحْدِ|on apprend à tout âge (du berceau à la tombe)|اُطْلُبُوا العِلْمَ مِنَ المَهْدِ إِلَى ___ .|اللَّحْدِ|Recherchez le savoir du berceau à la tombe.
+C1|proverbes|رُبَّ ضَارَّةٍ نَافِعَةٌ|à quelque chose malheur est bon|رُبَّ ضَارَّةٍ ___ .|نَافِعَةٌ|Bien des malheurs sont utiles.
+C1|imagées|اِصْطَادَ فِي المَاءِ العَكِرِ|pêcher en eau trouble|يُحَاوِلُ البَعْضُ الاِصْطِيَادَ فِي المَاءِ ___ .|العَكِرِ|Certains essaient de pêcher en eau trouble.
+C1|imagées|قَلَبَ الطَّاوِلَةَ|renverser la situation|قَلَبَ الفَرِيقُ ___ فِي آخِرِ دَقِيقَةٍ.|الطَّاوِلَةَ|L'équipe a renversé la situation à la dernière minute.
+C1|imagées|ذَرُّ الرَّمَادِ فِي العُيُونِ|jeter de la poudre aux yeux|هٰذِهِ الوُعُودُ ذَرٌّ لِلرَّمَادِ فِي ___ .|العُيُونِ|Ces promesses, c'est de la poudre aux yeux.
+C1|imagées|عَادَ بِخُفَّيْ حُنَيْنٍ|revenir bredouille|عَادَ اللَّاعِبُ بِخُفَّيْ ___ .|حُنَيْنٍ|Le joueur est revenu bredouille.
+C2|proverbes|لَيْسَ الخَبَرُ كَالمُعَايَنَةِ|voir de ses yeux vaut mieux qu'entendre dire|لَيْسَ الخَبَرُ ___ .|كَالمُعَايَنَةِ|Ouïr n'est pas comme voir.
+C2|proverbes|اِتَّسَعَ الخَرْقُ عَلَى الرَّاقِعِ|la situation est devenue irrattrapable|اِتَّسَعَ الخَرْقُ عَلَى ___ .|الرَّاقِعِ|La déchirure est devenue trop grande pour le raccommodeur.
+C2|proverbes|بَلَغَ السَّيْلُ الزُّبَى|la coupe est pleine|بَلَغَ السَّيْلُ ___ .|الزُّبَى|Le torrent a atteint les hauteurs.
+C2|proverbes|قَطَعَتْ جَهِيزَةُ قَوْلَ كُلِّ خَطِيبٍ|une parole décisive a tranché le débat|قَطَعَتْ جَهِيزَةُ قَوْلَ كُلِّ ___ .|خَطِيبٍ|Jahîza a coupé court au discours de tout orateur.
+C2|proverbes|فِي الصَّيْفِ ضَيَّعْتِ اللَّبَنَ|c'est trop tard, tu as laissé passer l'occasion|فِي الصَّيْفِ ___ اللَّبَنَ.|ضَيَّعْتِ|C'est en été que tu as gâché le lait.
+C2|imagées|أَدْلَى بِدَلْوِهِ|donner son avis (y aller de son mot)|أَدْلَى كُلُّ خَبِيرٍ ___ فِي النِّقَاشِ.|بِدَلْوِهِ|Chaque expert a donné son avis dans le débat.
+C2|imagées|حِبْرٌ عَلَى وَرَقٍ|lettre morte|بَقِيَ القَانُونُ حِبْرًا عَلَى ___ .|وَرَقٍ|La loi est restée lettre morte.
+Expert|proverbes|عِنْدَ جُهَيْنَةَ الخَبَرُ اليَقِينُ|la personne bien informée détient la vérité|عِنْدَ جُهَيْنَةَ الخَبَرُ ___ .|اليَقِينُ|C'est chez Juhayna qu'est la nouvelle certaine.
+Expert|proverbes|أَعْطِ القَوْسَ بَارِيَهَا|confie chaque tâche à qui sait la faire|أَعْطِ القَوْسَ ___ .|بَارِيَهَا|Donne l'arc à celui qui sait le tailler.
+Expert|proverbes|كَالمُسْتَجِيرِ مِنَ الرَّمْضَاءِ بِالنَّارِ|tomber de Charybde en Scylla|كَالمُسْتَجِيرِ مِنَ الرَّمْضَاءِ ___ .|بِالنَّارِ|Comme celui qui fuit le sable brûlant pour se réfugier dans le feu.
+Expert|proverbes|لَا نَاقَةَ لِي فِيهَا وَلَا جَمَلَ|je n'ai rien à voir avec cette affaire|لَا نَاقَةَ لِي فِيهَا وَلَا ___ .|جَمَلَ|Je n'y ai ni chamelle ni chameau.
+Expert|proverbes|وَافَقَ شَنٌّ طَبَقَةَ|qui se ressemble s'assemble|وَافَقَ شَنٌّ ___ .|طَبَقَةَ|Shann a trouvé en Tabaqa son égale.
+Expert|proverbes|يَدَاكَ أَوْكَتَا وَفُوكَ نَفَخَ|tu l'as bien cherché|يَدَاكَ أَوْكَتَا وَفُوكَ ___ .|نَفَخَ|Ce sont tes mains qui ont noué l'outre, et ta bouche qui l'a gonflée.

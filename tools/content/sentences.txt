@@ -1,0 +1,123 @@
+# Phrases : niveau | arabe (vocalisé) | français
+A1|مَرْحَبًا، اِسْمِي سَارَة.|Bonjour, je m'appelle Sara.
+A1|أَنَا مِنْ فَرَنْسَا.|Je viens de France.
+A1|هٰذَا كِتَابٌ جَدِيدٌ.|C'est un livre neuf.
+A1|هٰذِهِ سَيَّارَةٌ كَبِيرَةٌ.|C'est une grande voiture.
+A1|البَيْتُ جَمِيلٌ.|La maison est belle.
+A1|عِنْدِي أَخٌ وَأُخْتٌ.|J'ai un frère et une sœur.
+A1|أَبِي طَبِيبٌ.|Mon père est médecin.
+A1|أُمِّي فِي المَطْبَخِ.|Ma mère est dans la cuisine.
+A1|أَيْنَ المَدْرَسَةُ؟|Où est l'école ?
+A1|المَدْرَسَةُ قَرِيبَةٌ مِنَ البَيْتِ.|L'école est proche de la maison.
+A1|أَشْرَبُ الحَلِيبَ فِي الصَّبَاحِ.|Je bois du lait le matin.
+A1|أُحِبُّ القَهْوَةَ.|J'aime le café.
+A1|القِطُّ تَحْتَ الطَّاوِلَةِ.|Le chat est sous la table.
+A1|الكِتَابُ عَلَى المَكْتَبِ.|Le livre est sur le bureau.
+A1|كَيْفَ حَالُكَ؟|Comment vas-tu ?
+A1|أَنَا بِخَيْرٍ، شُكْرًا.|Je vais bien, merci.
+A1|مَا اسْمُكَ؟|Comment t'appelles-tu ?
+A1|الجَوُّ حَارٌّ اليَوْمَ.|Il fait chaud aujourd'hui.
+A1|ذَهَبَ الوَلَدُ إِلَى المَدْرَسَةِ.|Le garçon est allé à l'école.
+A1|كَتَبَ الطَّالِبُ الدَّرْسَ.|L'étudiant a écrit la leçon.
+A1|أَكَلْتُ تُفَّاحَةً.|J'ai mangé une pomme.
+A1|هَلْ تَتَكَلَّمُ العَرَبِيَّةَ؟|Parles-tu arabe ?
+A1|نَعَمْ، قَلِيلًا.|Oui, un peu.
+A1|البِنْتُ تَقْرَأُ كِتَابًا.|La fille lit un livre.
+A1|السَّمَاءُ زَرْقَاءُ.|Le ciel est bleu.
+A1|عِنْدِي قِطٌّ صَغِيرٌ.|J'ai un petit chat.
+A1|أَسْكُنُ فِي بَارِيسَ.|J'habite à Paris.
+A1|اليَوْمَ يَوْمُ الجُمُعَةِ.|Aujourd'hui, c'est vendredi.
+A1|مَعَ السَّلَامَةِ!|Au revoir !
+A1|البَابُ مَفْتُوحٌ.|La porte est ouverte.
+A2|أَسْتَيْقِظُ فِي السَّاعَةِ السَّابِعَةِ.|Je me réveille à sept heures.
+A2|أَذْهَبُ إِلَى العَمَلِ بِالحَافِلَةِ.|Je vais au travail en bus.
+A2|يَعْمَلُ أَخِي فِي مُسْتَشْفًى كَبِيرٍ.|Mon frère travaille dans un grand hôpital.
+A2|نَتَنَاوَلُ العَشَاءَ مَعًا كُلَّ مَسَاءٍ.|Nous dînons ensemble chaque soir.
+A2|سَافَرْنَا إِلَى المَغْرِبِ فِي الصَّيْفِ.|Nous avons voyagé au Maroc en été.
+A2|كَمْ ثَمَنُ هٰذَا القَمِيصِ؟|Combien coûte cette chemise ?
+A2|أُرِيدُ كُوبًا مِنَ الشَّايِ، مِنْ فَضْلِكَ.|Je voudrais un verre de thé, s'il te plaît.
+A2|الجَوُّ بَارِدٌ فِي الشِّتَاءِ.|Il fait froid en hiver.
+A2|سَوْفَ أَزُورُ جَدَّتِي غَدًا.|Je rendrai visite à ma grand-mère demain.
+A2|لَا أَفْهَمُ هٰذَا السُّؤَالَ.|Je ne comprends pas cette question.
+A2|هَلْ يُمْكِنُكَ أَنْ تُسَاعِدَنِي؟|Peux-tu m'aider ?
+A2|المَطْعَمُ مُغْلَقٌ يَوْمَ الأَحَدِ.|Le restaurant est fermé le dimanche.
+A2|أُحِبُّ السِّبَاحَةَ وَكُرَةَ القَدَمِ.|J'aime la natation et le football.
+A2|اِشْتَرَتْ أُمِّي خُضَارًا مِنَ السُّوقِ.|Ma mère a acheté des légumes au marché.
+A2|الفُنْدُقُ بَعِيدٌ عَنِ المَطَارِ.|L'hôtel est loin de l'aéroport.
+A2|أَخِي أَطْوَلُ مِنِّي.|Mon frère est plus grand que moi.
+A2|كَانَ الفِيلْمُ مُمْتِعًا جِدًّا.|Le film était très intéressant.
+A2|لَمْ أَذْهَبْ إِلَى المَدْرَسَةِ أَمْسِ.|Je ne suis pas allé à l'école hier.
+A2|يَدْرُسُ الطُّلَّابُ فِي المَكْتَبَةِ.|Les étudiants étudient à la bibliothèque.
+A2|أَيْنَ تَسْكُنُ؟|Où habites-tu ?
+A2|أَسْكُنُ فِي شَقَّةٍ صَغِيرَةٍ.|J'habite dans un petit appartement.
+A2|هٰذِهِ أَوَّلُ مَرَّةٍ أَزُورُ فِيهَا القَاهِرَةَ.|C'est la première fois que je visite Le Caire.
+A2|أَنَا جَائِعٌ، هَيَّا نَأْكُلْ!|J'ai faim, allons manger !
+A2|الصَّيْدَلِيَّةُ بِجَانِبِ البَنْكِ.|La pharmacie est à côté de la banque.
+A2|عَادَ أَبِي مِنَ العَمَلِ مُتَأَخِّرًا.|Mon père est rentré tard du travail.
+B1|أَعْتَقِدُ أَنَّ تَعَلُّمَ اللُّغَاتِ مُفِيدٌ جِدًّا.|Je pense qu'apprendre les langues est très utile.
+B1|إِذَا دَرَسْتَ جَيِّدًا نَجَحْتَ فِي الاِمْتِحَانِ.|Si tu étudies bien, tu réussiras l'examen.
+B1|يَجِبُ أَنْ نُحَافِظَ عَلَى نَظَافَةِ المَدِينَةِ.|Nous devons préserver la propreté de la ville.
+B1|حَصَلَتْ أُخْتِي عَلَى وَظِيفَةٍ جَدِيدَةٍ.|Ma sœur a obtenu un nouvel emploi.
+B1|كُنْتُ أَلْعَبُ فِي الحَدِيقَةِ عِنْدَمَا بَدَأَ المَطَرُ.|Je jouais dans le jardin quand la pluie a commencé.
+B1|الكِتَابُ الَّذِي قَرَأْتُهُ مُمْتِعٌ.|Le livre que j'ai lu est intéressant.
+B1|ذَهَبْتُ إِلَى الطَّبِيبِ لِأَنَّنِي كُنْتُ مَرِيضًا.|Je suis allé chez le médecin parce que j'étais malade.
+B1|لَنْ أُسَافِرَ هٰذَا الصَّيْفَ.|Je ne voyagerai pas cet été.
+B1|عَلَيْكَ أَنْ تَحْجِزَ التَّذْكِرَةَ مُبَكِّرًا.|Tu dois réserver le billet tôt.
+B1|اِجْتَمَعَ المُدِيرُ بِالمُوَظَّفِينَ صَبَاحَ اليَوْمِ.|Le directeur s'est réuni avec les employés ce matin.
+B1|مَا رَأْيُكَ فِي هٰذَا المَشْرُوعِ؟|Que penses-tu de ce projet ?
+B1|أَحْتَاجُ إِلَى مَزِيدٍ مِنَ الوَقْتِ.|J'ai besoin de plus de temps.
+B1|رَغْمَ التَّعَبِ، أَكْمَلَ عَمَلَهُ.|Malgré la fatigue, il a terminé son travail.
+B1|تَعَلَّمْتُ العَرَبِيَّةَ فِي الجَامِعَةِ.|J'ai appris l'arabe à l'université.
+B1|يُقَالُ إِنَّ هٰذِهِ المَدِينَةَ قَدِيمَةٌ جِدًّا.|On dit que cette ville est très ancienne.
+B1|كُلَّمَا قَرَأْتُ أَكْثَرَ، تَعَلَّمْتُ أَكْثَرَ.|Plus je lis, plus j'apprends.
+B1|المُعَلِّمَاتُ مُجْتَهِدَاتٌ.|Les enseignantes sont travailleuses.
+B1|أُرْسِلَتِ الرِّسَالَةُ أَمْسِ.|La lettre a été envoyée hier.
+B1|لَيْتَنِي أَسْتَطِيعُ السَّفَرَ مَعَكُمْ.|Si seulement je pouvais voyager avec vous.
+B1|سَأَتَّصِلُ بِكَ عِنْدَمَا أَصِلُ.|Je t'appellerai quand j'arriverai.
+B2|تُعَدُّ البِطَالَةُ مِنْ أَخْطَرِ المَشَاكِلِ الاِقْتِصَادِيَّةِ.|Le chômage est considéré comme l'un des problèmes économiques les plus graves.
+B2|لَا بُدَّ مِنْ إِيجَادِ حُلُولٍ لِأَزْمَةِ المُنَاخِ.|Il faut absolument trouver des solutions à la crise climatique.
+B2|أَدَّى اِنْتِشَارُ الإِنْتِرْنِتْ إِلَى تَغْيِيرِ طَرِيقَةِ التَّعَلُّمِ.|La diffusion d'internet a conduit à un changement de la manière d'apprendre.
+B2|عَلَى الرَّغْمِ مِنْ أَهَمِّيَّةِ التِّكْنُولُوجِيَا، فَإِنَّ لَهَا سَلْبِيَّاتٍ.|Malgré l'importance de la technologie, elle a des inconvénients.
+B2|مِنَ الضَّرُورِيِّ أَنْ تَسْتَثْمِرَ الدَّوْلَةُ فِي التَّعْلِيمِ.|Il est nécessaire que l'État investisse dans l'enseignement.
+B2|نَاقَشَ البَرْلَمَانُ قَانُونًا جَدِيدًا حَوْلَ الضَّرَائِبِ.|Le parlement a débattu d'une nouvelle loi sur les impôts.
+B2|لَوْ كُنْتُ وَزِيرًا لَاهْتَمَمْتُ بِالبِيئَةِ.|Si j'étais ministre, je m'occuperais de l'environnement.
+B2|يَرَى بَعْضُ البَاحِثِينَ أَنَّ هٰذِهِ الظَّاهِرَةَ مُؤَقَّتَةٌ.|Certains chercheurs estiment que ce phénomène est temporaire.
+B2|أَظْهَرَتِ الدِّرَاسَةُ نَتَائِجَ مُهِمَّةً.|L'étude a montré des résultats importants.
+B2|لَمْ يَعُدْ بِالإِمْكَانِ تَجَاهُلُ هٰذِهِ المُشْكِلَةِ.|Il n'est plus possible d'ignorer ce problème.
+B2|إِنَّ الحِفَاظَ عَلَى المَوَارِدِ مَسْؤُولِيَّةُ الجَمِيعِ.|La préservation des ressources est la responsabilité de tous.
+B2|كَانَ مِنَ المُتَوَقَّعِ أَنْ تَرْتَفِعَ الأَسْعَارُ.|Il était prévisible que les prix augmentent.
+B2|شَارَكَ آلَافُ المُتَطَوِّعِينَ فِي الحَمْلَةِ.|Des milliers de bénévoles ont participé à la campagne.
+B2|يَنْبَغِي أَنْ نُفَكِّرَ فِي مُسْتَقْبَلِ الأَجْيَالِ القَادِمَةِ.|Nous devrions penser à l'avenir des générations futures.
+B2|كُلَّمَا زَادَ التَّلَوُّثُ، زَادَتِ الأَمْرَاضُ.|Plus la pollution augmente, plus les maladies augmentent.
+C1|يَتَنَاوَلُ هٰذَا المَقَالُ إِشْكَالِيَّةَ الهُوِيَّةِ فِي ظِلِّ العَوْلَمَةِ.|Cet article aborde la problématique de l'identité à l'heure de la mondialisation.
+C1|لَا يَخْفَى عَلَى أَحَدٍ أَنَّ التَّعْلِيمَ رَكِيزَةُ التَّنْمِيَةِ.|Nul n'ignore que l'enseignement est le pilier du développement.
+C1|مَا انْفَكَّ البَاحِثُونَ يَدْرُسُونَ هٰذِهِ الظَّاهِرَةَ.|Les chercheurs n'ont cessé d'étudier ce phénomène.
+C1|أَيًّا كَانَتِ الأَسْبَابُ، فَإِنَّ النَّتِيجَةَ وَاحِدَةٌ.|Quelles que soient les causes, le résultat est le même.
+C1|بِقَدْرِ مَا نَسْتَثْمِرُ فِي البَحْثِ العِلْمِيِّ، نَتَقَدَّمُ.|Dans la mesure où nous investissons dans la recherche scientifique, nous progressons.
+C1|لَمْ يَكُنِ القَرَارُ سَهْلًا، بَيْدَ أَنَّهُ كَانَ ضَرُورِيًّا.|La décision n'était pas facile, mais elle était nécessaire.
+C1|اِنْتَقَدَ الكَاتِبُ السِّيَاسَاتِ الَّتِي أَدَّتْ إِلَى الأَزْمَةِ.|L'auteur a critiqué les politiques qui ont conduit à la crise.
+C1|تَجْدُرُ الإِشَارَةُ إِلَى أَنَّ هٰذِهِ الأَرْقَامَ تَقْرِيبِيَّةٌ.|Il convient de signaler que ces chiffres sont approximatifs.
+C1|مِنْ شَأْنِ هٰذَا الإِصْلَاحِ أَنْ يُعَزِّزَ العَدَالَةَ الاِجْتِمَاعِيَّةَ.|Cette réforme est de nature à renforcer la justice sociale.
+C1|سُرْعَانَ مَا انْتَشَرَ الخَبَرُ فِي وَسَائِلِ الإِعْلَامِ.|La nouvelle s'est très vite répandue dans les médias.
+C1|إِنَّمَا الأُمَمُ الأَخْلَاقُ مَا بَقِيَتْ.|Les nations ne valent que par leur morale, tant qu'elle demeure.
+C1|ثَمَّةَ فَرْقٌ جَوْهَرِيٌّ بَيْنَ المَفْهُومَيْنِ.|Il existe une différence fondamentale entre les deux concepts.
+C2|لَا مَنَاصَ مِنَ الاِعْتِرَافِ بِتَعَدُّدِيَّةِ الآرَاءِ.|On ne peut éviter de reconnaître la pluralité des opinions.
+C2|تَمَخَّضَ الاِجْتِمَاعُ عَنْ اِتِّفَاقِيَّةٍ تَارِيخِيَّةٍ.|La réunion a abouti à un accord historique.
+C2|مَا فَتِئَ الشُّعَرَاءُ يَتَغَنَّوْنَ بِالحُرِّيَّةِ.|Les poètes n'ont cessé de chanter la liberté.
+C2|حَرِيٌّ بِنَا أَنْ نُعِيدَ النَّظَرَ فِي مَنَاهِجِنَا.|Il nous incombe de reconsidérer nos programmes.
+C2|إِنْ دَلَّ هٰذَا عَلَى شَيْءٍ فَإِنَّمَا يَدُلُّ عَلَى وَعْيِ الشَّبَابِ.|Si cela prouve quelque chose, c'est bien la conscience des jeunes.
+C2|لَا يَعْدُو هٰذَا الكَلَامُ أَنْ يَكُونَ مُجَرَّدَ وُعُودٍ.|Ces propos ne sont rien de plus que de simples promesses.
+C2|عَلَاوَةً عَلَى ذٰلِكَ، فَإِنَّ الشَّفَافِيَّةَ شَرْطٌ لِلْمِصْدَاقِيَّةِ.|De plus, la transparence est une condition de la crédibilité.
+C2|كَادَ المَشْرُوعُ يَفْشَلُ لَوْلَا تَضَافُرُ الجُهُودِ.|Le projet a failli échouer, n'eût été la conjugaison des efforts.
+C2|قَلَّمَا نَجِدُ كَاتِبًا يَجْمَعُ بَيْنَ العُمْقِ وَالوُضُوحِ.|Il est rare de trouver un écrivain qui allie profondeur et clarté.
+C2|هَيْهَاتَ أَنْ يَعُودَ الزَّمَنُ إِلَى الوَرَاءِ.|Il est bien impossible que le temps revienne en arrière.
+Expert|العِلْمُ فِي الصِّغَرِ كَالنَّقْشِ فِي الحَجَرِ.|Le savoir acquis dans l'enfance est comme une gravure dans la pierre.
+Expert|لِكُلِّ مَقَامٍ مَقَالٌ.|À chaque situation son discours.
+Expert|خَيْرُ الكَلَامِ مَا قَلَّ وَدَلَّ.|Le meilleur discours est celui qui est bref et significatif.
+Expert|إِذَا لَمْ تَسْتَحِ فَاصْنَعْ مَا شِئْتَ.|Si tu n'as pas de pudeur, fais ce que tu veux.
+Expert|مَا كُلُّ مَا يَتَمَنَّى المَرْءُ يُدْرِكُهُ.|L'homme n'obtient pas tout ce qu'il souhaite.
+Expert|الخَيْلُ وَاللَّيْلُ وَالبَيْدَاءُ تَعْرِفُنِي.|Les chevaux, la nuit et le désert me connaissent. (al-Mutanabbî)
+Expert|أَنَا الَّذِي نَظَرَ الأَعْمَى إِلَى أَدَبِي.|Je suis celui dont l'aveugle a vu la littérature. (al-Mutanabbî)
+Expert|وَمَا نَيْلُ المَطَالِبِ بِالتَّمَنِّي.|On n'obtient pas ce que l'on désire en se contentant de le souhaiter. (Ahmad Shawqî)
+Expert|إِنَّ مِنَ البَيَانِ لَسِحْرًا.|Certes, il y a dans l'éloquence une magie.
+Expert|رُبَّ أَخٍ لَكَ لَمْ تَلِدْهُ أُمُّكَ.|Il est des frères que ta mère n'a pas enfantés.

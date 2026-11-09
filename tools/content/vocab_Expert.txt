@@ -1,0 +1,34 @@
+# Vocabulaire Expert : arabe | français | thème | emoji | pluriel
+# --- langue classique et littéraire
+فَصَاحَة|la pureté de la langue / l'éloquence|classique||
+إِعْرَاب|l'analyse grammaticale (flexion casuelle)|classique||
+صَرْف|la morphologie|classique||
+نَحْو|la syntaxe|classique||
+عَرُوض|la métrique (prosodie)|classique||
+قَافِيَة|une rime|classique||قَوَافٍ
+مُعَلَّقَة|une ode suspendue (Mu'allaqa)|classique||مُعَلَّقَات
+مَقَامَة|une séance (genre littéraire)|classique||مَقَامَات
+دِيوَان|un recueil de poèmes|classique||دَوَاوِين
+مُعْجَم|un dictionnaire|classique|📘|مَعَاجِم
+جِنَاس|la paronomase|classique||
+طِبَاق|l'antithèse|classique||
+سَجْع|la prose rimée|classique||
+كِنَايَة|la métonymie / l'allusion|classique||
+# --- mots rares
+حَصِيف|judicieux / sagace|rares||
+وَجِيز|concis|rares||
+سَاذَج|naïf|rares||
+مُتَأَنٍّ|réfléchi / posé|rares||
+أَرِيحِيَّة|la générosité spontanée|rares||
+دَيْدَن|une habitude constante|rares||
+غَيَاهِب|les ténèbres profondes|rares||
+مُتَوَارٍ|caché / dissimulé|rares||
+سَجِيَّة|un naturel / un caractère inné|rares||سَجَايَا
+وَئِيد|lent et posé|rares||
+# --- verbes
+اِسْتَشْكَلَ|trouver problématique|verbes||
+تَمَحَّصَ|examiner minutieusement|verbes||
+اِسْتَقْصَى|investiguer à fond|verbes||
+أَسْهَبَ|s'étendre longuement (prolixité)|verbes||
+اِسْتَبْطَنَ|intérioriser|verbes||
+تَوَخَّى|viser / rechercher|verbes||

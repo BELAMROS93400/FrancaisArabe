@@ -1,0 +1,61 @@
+# Vocabulaire C1 : arabe | français | thème | emoji | pluriel
+# --- société et idées
+مُوَاطَنَة|la citoyenneté|société||
+هُوِيَّة|une identité|société||هُوِيَّات
+تَنْمِيَة|le développement|société||
+عَوْلَمَة|la mondialisation|société||
+تَضَامُن|la solidarité|société||
+مُسَاوَاة|l'égalité|société||
+عَدَالَة|la justice|société||
+فَسَاد|la corruption|société||
+مُؤَسَّسَة|une institution / une fondation|société||مُؤَسَّسَات
+مُنَظَّمَة|une organisation|société||مُنَظَّمَات
+هِجْرَة|l'émigration / la migration|société||
+لَاجِئ|un réfugié|société||لَاجِئُون
+أَزْمَة|une crise|société||أَزَمَات
+إِصْلَاح|une réforme|société||إِصْلَاحَات
+# --- pensée
+مَفْهُوم|un concept|pensée||مَفَاهِيم
+نَظَرِيَّة|une théorie|pensée||نَظَرِيَّات
+فَلْسَفَة|la philosophie|pensée||
+مَنْطِق|la logique|pensée||
+حُجَّة|un argument|pensée||حُجَج
+فَرْضِيَّة|une hypothèse|pensée||فَرْضِيَّات
+اِسْتِنْتَاج|une conclusion / une déduction|pensée||اِسْتِنْتَاجَات
+تَحْلِيل|une analyse|pensée||تَحَالِيل
+مَوْقِف|une position / une attitude|pensée||مَوَاقِف
+وِجْهَة نَظَر|un point de vue|pensée||
+وَعْي|la conscience|pensée||
+# --- médias et culture
+إِعْلَام|les médias|culture||
+صَحَافَة|la presse|culture||
+أَدَب|la littérature|culture||آدَاب
+رِوَايَة|un roman|culture|📖|رِوَايَات
+شِعْر|la poésie|culture||أَشْعَار
+مَسْرَح|un théâtre|culture|🎭|مَسَارِح
+تُرَاث|un patrimoine|culture||
+حَضَارَة|une civilisation|culture||حَضَارَات
+مَخْطُوطَة|un manuscrit|culture||مَخْطُوطَات
+تَرْجَمَة|une traduction|culture||تَرْجَمَات
+# --- adjectifs
+مُعَقَّد|compliqué|adjectifs||
+جَوْهَرِيّ|essentiel / fondamental|adjectifs||
+مَوْضُوعِيّ|objectif|adjectifs||
+ذَاتِيّ|subjectif|adjectifs||
+نِسْبِيّ|relatif|adjectifs||
+مُطْلَق|absolu|adjectifs||
+مُتَنَاقِض|contradictoire|adjectifs||
+مُسْتَدَام|durable|adjectifs||
+فَعَّال|efficace|adjectifs||
+مُلِحّ|urgent / pressant|adjectifs||
+# --- verbes
+اِسْتَنْتَجَ|déduire / conclure|verbes||
+تَنَاوَلَ|aborder (un sujet) / prendre|verbes||
+أَكَّدَ|affirmer / confirmer|verbes||
+اِنْتَقَدَ|critiquer|verbes||
+عَالَجَ|traiter / soigner|verbes||
+تَجَاوَزَ|dépasser / surmonter|verbes||
+اِسْتَثْمَرَ|investir|verbes||
+تَبَنَّى|adopter|verbes||
+أَدْرَكَ|se rendre compte / saisir|verbes||
+اِعْتَرَفَ|reconnaître / avouer|verbes||

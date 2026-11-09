@@ -1,0 +1,45 @@
+# Vocabulaire C2 : arabe | français | thème | emoji | pluriel
+# --- droit et institutions
+دُسْتُور|une constitution|droit||دَسَاتِير
+تَشْرِيع|une législation|droit||تَشْرِيعَات
+قَضَاء|la justice (le pouvoir judiciaire)|droit||
+مَحْكَمَة|un tribunal|droit|⚖️|مَحَاكِم
+قَاضٍ|un juge|droit||قُضَاة
+سِيَادَة|la souveraineté|droit||
+اِتِّفَاقِيَّة|une convention / un accord|droit||اِتِّفَاقِيَّات
+مَسْؤُولِيَّة|une responsabilité|droit||مَسْؤُولِيَّات
+# --- pensée et lettres
+بَلَاغَة|la rhétorique / l'éloquence|lettres||
+اِسْتِعَارَة|une métaphore|lettres||اِسْتِعَارَات
+تَشْبِيه|une comparaison (figure)|lettres||تَشْبِيهَات
+مَجَاز|une figure / le sens figuré|lettres||
+نَقْد|la critique|lettres||
+قَصِيدَة|un poème|lettres||قَصَائِد
+بَيْت شِعْر|un vers|lettres||
+مَقَالَة|un article / un essai|lettres||مَقَالَات
+خِطَاب|un discours|lettres||خِطَابَات
+مُصْطَلَح|un terme technique|lettres||مُصْطَلَحَات
+إِشْكَالِيَّة|une problématique|lettres||إِشْكَالِيَّات
+# --- abstraits
+اِزْدِهَار|la prospérité|abstraits||
+تَدَهْوُر|la détérioration|abstraits||
+اِسْتِقْرَار|la stabilité|abstraits||
+تَعَدُّدِيَّة|le pluralisme|abstraits||
+شَفَافِيَّة|la transparence|abstraits||
+مِصْدَاقِيَّة|la crédibilité|abstraits||
+نَزَاهَة|l'intégrité|abstraits||
+تَسَامُح|la tolérance|abstraits||
+# --- adjectifs
+جَلِيّ|évident / manifeste|adjectifs||
+ضِمْنِيّ|implicite|adjectifs||
+صَرِيح|explicite / franc|adjectifs||
+جَذْرِيّ|radical|adjectifs||
+تَدْرِيجِيّ|progressif|adjectifs||
+حَتْمِيّ|inévitable|adjectifs||
+# --- verbes
+اِسْتَنْكَرَ|dénoncer / condamner|verbes||
+تَفَاقَمَ|s'aggraver|verbes||
+اِسْتَشْرَفَ|anticiper / prospecter|verbes||
+تَمَخَّضَ|aboutir à / résulter|verbes||
+اِنْبَثَقَ|émaner / jaillir|verbes||
+تَضَافَرَ|conjuguer ses efforts|verbes||

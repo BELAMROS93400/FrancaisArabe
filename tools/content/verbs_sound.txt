@@ -1,0 +1,86 @@
+# Verbes réguliers (racines saines) : niveau | racine (3 lettres) | forme (1 à 10) | voyelle du passé (a/i/u, forme 1) | voyelle du présent (a/i/u, forme 1) | sens | masdar
+# Les formes conjuguées sont calculées automatiquement par tools/conj.py.
+A1|كتب|1|a|u|écrire|كِتَابَة
+A1|دخل|1|a|u|entrer|دُخُول
+A1|خرج|1|a|u|sortir|خُرُوج
+A1|ذهب|1|a|a|aller|ذَهَاب
+A1|فتح|1|a|a|ouvrir|فَتْح
+A1|جلس|1|a|i|s'asseoir|جُلُوس
+A1|شرب|1|i|a|boire|شُرْب
+A1|لعب|1|i|a|jouer|لَعِب
+A1|فهم|1|i|a|comprendre|فَهْم
+A1|سمع|1|i|a|entendre|سَمَاع
+A2|درس|1|a|u|étudier|دِرَاسَة
+A2|شكر|1|a|u|remercier|شُكْر
+A2|طبخ|1|a|u|cuisiner|طَبْخ
+A2|رسم|1|a|u|dessiner|رَسْم
+A2|طلب|1|a|u|demander|طَلَب
+A2|سكن|1|a|u|habiter|سَكَن
+A2|رجع|1|a|i|revenir|رُجُوع
+A2|غسل|1|a|i|laver|غَسْل
+A2|عرف|1|a|i|savoir / connaître|مَعْرِفَة
+A2|عمل|1|i|a|travailler|عَمَل
+A2|ركب|1|i|a|monter (dans un véhicule)|رُكُوب
+A2|ضحك|1|i|a|rire|ضَحِك
+A2|علم|2|-|-|enseigner|تَعْلِيم
+A2|نظف|2|-|-|nettoyer|تَنْظِيف
+A2|سعد|3|-|-|aider|مُسَاعَدَة
+A2|سفر|3|-|-|voyager|سَفَر
+B1|حمل|1|a|i|porter|حَمْل
+B1|نزل|1|a|i|descendre|نُزُول
+B1|ترك|1|a|u|laisser|تَرْك
+B1|نظر|1|a|u|regarder|نَظَر
+B1|حضر|1|a|u|venir / assister|حُضُور
+B1|بحث|1|a|a|chercher|بَحْث
+B1|نجح|1|a|a|réussir|نَجَاح
+B1|حفظ|1|i|a|apprendre par cœur|حِفْظ
+B1|فكر|2|-|-|réfléchir|تَفْكِير
+B1|جهز|2|-|-|préparer|تَجْهِيز
+B1|رتب|2|-|-|ranger|تَرْتِيب
+B1|شهد|3|-|-|regarder (un spectacle)|مُشَاهَدَة
+B1|شرك|3|-|-|participer|مُشَارَكَة
+B1|رسل|4|-|-|envoyer|إِرْسَال
+B1|خبر|4|-|-|informer|إِخْبَار
+B1|غلق|4|-|-|fermer|إِغْلَاق
+B1|علم|5|-|-|apprendre|تَعَلُّم
+B1|كلم|5|-|-|parler|تَكَلُّم
+B1|ذكر|5|-|-|se souvenir|تَذَكُّر
+B2|قدم|2|-|-|présenter|تَقْدِيم
+B2|سجل|2|-|-|enregistrer|تَسْجِيل
+B2|نقش|3|-|-|discuter / débattre|مُنَاقَشَة
+B2|قبل|3|-|-|rencontrer|مُقَابَلَة
+B2|كمل|4|-|-|achever|إِكْمَال
+B2|علن|4|-|-|annoncer|إِعْلَان
+B2|صلح|4|-|-|réparer|إِصْلَاح
+B2|حدث|5|-|-|parler / s'entretenir|تَحَدُّث
+B2|خرج|5|-|-|obtenir son diplôme|تَخَرُّج
+B2|بدل|6|-|-|échanger|تَبَادُل
+B2|فهم|6|-|-|s'entendre / se comprendre|تَفَاهُم
+B2|كسر|7|-|-|se casser|اِنْكِسَار
+B2|طلق|7|-|-|partir / s'élancer|اِنْطِلَاق
+B2|جمع|8|-|-|se réunir|اِجْتِمَاع
+B2|سمع|8|-|-|écouter|اِسْتِمَاع
+B2|حرم|8|-|-|respecter|اِحْتِرَام
+B2|نظر|8|-|-|attendre|اِنْتِظَار
+B2|عمل|10|-|-|utiliser|اِسْتِعْمَال
+B2|قبل|10|-|-|accueillir|اِسْتِقْبَال
+C1|كبر|1|u|u|grandir (en importance)|كِبَر
+C1|حسن|1|u|u|être beau / bon|حُسْن
+C1|شعر|1|a|u|ressentir|شُعُور
+C1|قطع|7|-|-|être coupé / s'interrompre|اِنْقِطَاع
+C1|صرف|7|-|-|s'en aller|اِنْصِرَاف
+C1|نقل|8|-|-|déménager / se déplacer|اِنْتِقَال
+C1|كشف|8|-|-|découvrir|اِكْتِشَاف
+C1|حفل|8|-|-|célébrer|اِحْتِفَال
+C1|خدم|10|-|-|utiliser / employer|اِسْتِخْدَام
+C1|غرب|10|-|-|s'étonner|اِسْتِغْرَاب
+C1|رجع|10|-|-|récupérer|اِسْتِرْجَاع
+C2|عرض|6|-|-|être en contradiction|تَعَارُض
+C2|سمح|6|-|-|être tolérant|تَسَامُح
+C2|نتج|10|-|-|déduire / conclure|اِسْتِنْتَاج
+C2|ثمر|10|-|-|investir|اِسْتِثْمَار
+C2|عرف|8|-|-|reconnaître / avouer|اِعْتِرَاف
+Expert|حكم|10|-|-|se consolider / être bien établi|اِسْتِحْكَام
+Expert|نبط|10|-|-|extraire / déduire|اِسْتِنْبَاط
+Expert|فقم|6|-|-|s'aggraver|تَفَاقُم
+Expert|بلغ|3|-|-|exagérer|مُبَالَغَة
